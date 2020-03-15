@@ -64,10 +64,10 @@ This may move to a more "official" GitHub location, once I start to build out th
 # Submitting to Public Sequence Repositories
 
 ### Sequence accessioning and naming conventions
-	
-### Recommended formatting and criteria for sample metadata
+> To be added.
 
-## Repositories
+### Recommended formatting and criteria for sample metadata
+> To be added.
 
 ### [NCBI SARS-CoV-2 Sequences - Public Domain](https://www.ncbi.nlm.nih.gov/genbank/sars-cov-2-seqs/)
  > [Genbank submission - single](https://www.ncbi.nlm.nih.gov/WebSub/)
