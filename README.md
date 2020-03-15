@@ -6,7 +6,9 @@ Please feel free to suggest additions, edits, clarifications, either by posting 
 
 This may move to a more "official" GitHub location, once I start to build out the content a bit more, but I wanted to get the ball rolling.
 
+
 ---
+
 
 # Sequencing Protocols
 
@@ -36,7 +38,9 @@ This may move to a more "official" GitHub location, once I start to build out th
 ### 5. Illumina Shotgun Metagenomics Sequencing Protocol
  > [Released - Application Note](https://www.illumina.com/content/dam/illumina-marketing/documents/products/appnotes/ngs-coronavirus-app-note-1270-2020-001.pdf)
 
+
 ---
+
 
 # Bioinformatics Tools, Scripts and Workflows
 
@@ -53,7 +57,9 @@ This may move to a more "official" GitHub location, once I start to build out th
  
  > [RAMPART Runtime Docs](https://artic.network/ncov-2019/ncov2019-using-rampart.html)
 
+
 ---
+
 
 # Submitting to Public Sequence Repositories
 
@@ -69,17 +75,23 @@ This may move to a more "official" GitHub location, once I start to build out th
 ### [GISAID EpiCoV - Public Access](https://platform.gisaid.org/)
  > [GISAID submission - single->batch](https://platform.gisaid.org)
 
+
 ---
+
 
 # Linking Public Sequence Accession Numbers to Case IDs (PII)
  > To be added.
 
+
 ---
+
 
 # Other Useful References and Resources
 
 ### [Nextstrain SARS-CoV-2/hCoV-19](https://www.nextstrain.org/ncov);
 ### [Virological Novel 2019 Coronavirus forum](http://virological.org/c/novel-2019-coronavirus);
+
+
 
 ---
 
