@@ -11,17 +11,16 @@ This may move to a more "official" GitHub location, once I start to build out th
 ## Sequencing Protocols
 
 ### 1. CDC NCIRD/DVD Sequencing Protocols
-	ONT Sequencing Protocol: Release pending clearance.
-	Sanger Tiling: Release pending clearance.
+> ONT Sequencing Protocol: Release pending clearance.
+> Sanger Tiling: Release pending clearance.
 
 ### 2. [ARTIC Network nCoV-2019 Sequencing Protocol](https://artic.network/ncov-2019)
-  [Sequencing protocol](https://www.protocols.io/view/ncov-2019-sequencing-protocol-bbmuik6w);
-  [Single sample sequencing protocol](https://www.protocols.io/view/ncov-2019-sequencing-protocol-single-sample-bdbfi2jn);
-  [Primer Scheme V1](https://github.com/artic-network/artic-ncov2019/tree/master/primer_schemes/nCoV-2019/V1);
-  [Primer Scheme V2 - 18_LEFT Revised^](https://github.com/artic-network/artic-ncov2019/tree/master/primer_schemes/nCoV-2019/V2);
-                   [^Proposed revision](https://www.biorxiv.org/content/10.1101/2020.03.10.985150v1.full.pdf);
-	
-	           Integrated bioinformatics (RAMPART) documentation below.
+ > [Sequencing protocol](https://www.protocols.io/view/ncov-2019-sequencing-protocol-bbmuik6w)
+ > [Single sample sequencing protocol](https://www.protocols.io/view/ncov-2019-sequencing-protocol-single-sample-bdbfi2jn)
+ > [Primer Scheme V1](https://github.com/artic-network/artic-ncov2019/tree/master/primer_schemes/nCoV-2019/V1)
+ > [Primer Scheme V2 - 18_LEFT Revised^](https://github.com/artic-network/artic-ncov2019/tree/master/primer_schemes/nCoV-2019/V2)
+ > [^Proposed revision](https://www.biorxiv.org/content/10.1101/2020.03.10.985150v1.full.pdf)
+ > Integrated bioinformatics (RAMPART) documentation below.
 
 ### 3. Illumina Nextera Flex Enrichment Sequencing Protocol
 	Release pending clearance.
