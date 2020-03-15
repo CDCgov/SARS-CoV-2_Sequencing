@@ -87,8 +87,8 @@ To be added.
 
 # Other Useful References and Resources
 
-### [Nextstrain SARS-CoV-2/hCoV-19](https://www.nextstrain.org/ncov);
-### [Virological Novel 2019 Coronavirus forum](http://virological.org/c/novel-2019-coronavirus);
+### [Nextstrain hCoV-19](https://www.nextstrain.org/ncov)
+### [Virological Novel 2019 Coronavirus forum](http://virological.org/c/novel-2019-coronavirus)
 
 
 
