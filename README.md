@@ -13,29 +13,28 @@ This may move to a more "official" GitHub location, once I start to build out th
 # Sequencing Protocols
 
 ### 1. CDC NCIRD/DVD Sequencing Protocols
- > ONT Sequencing Protocol: Release pending clearance.
+- ONT Sequencing Protocol: Release pending clearance.
 
- > Sanger Tiling: Release pending clearance.
+- Sanger Tiling: Release pending clearance.
 
 ### 2. [ARTIC Network nCoV-2019 Sequencing Protocol](https://artic.network/ncov-2019)
- > [Sequencing protocol](https://www.protocols.io/view/ncov-2019-sequencing-protocol-bbmuik6w)
- 
- > [Single sample sequencing protocol](https://www.protocols.io/view/ncov-2019-sequencing-protocol-single-sample-bdbfi2jn)
- 
- > [Primer Scheme V1](https://github.com/artic-network/artic-ncov2019/tree/master/primer_schemes/nCoV-2019/V1)
- 
- > [Primer Scheme V2 - 18_LEFT Revised^](https://github.com/artic-network/artic-ncov2019/tree/master/primer_schemes/nCoV-2019/V2) [(^Proposed revision)](https://www.biorxiv.org/content/10.1101/2020.03.10.985150v1.full.pdf)
- 
- Integrated bioinformatics (RAMPART) documentation below.
+
+- [Sequencing protocol](https://www.protocols.io/view/ncov-2019-sequencing-protocol-bbmuik6w) / [Single sample sequencing protocol](https://www.protocols.io/view/ncov-2019-sequencing-protocol-single-sample-bdbfi2jn)
+
+- [Stepwise simplified protocol from ONT*](./protocols/ONT-COVID-19_Tiling)
+
+- Primer schemes: [V1](https://github.com/artic-network/artic-ncov2019/tree/master/primer_schemes/nCoV-2019/V1) / [V2](https://github.com/artic-network/artic-ncov2019/tree/master/primer_schemes/nCoV-2019/V2) [(ref)](https://www.biorxiv.org/content/10.1101/2020.03.10.985150v1.full.pdf)
+
+- Integrated bioinformatics (RAMPART) documentation below.
 
 ### 3. Illumina Nextera Flex Enrichment Sequencing Protocol
-Release pending clearance.
+- Release imminent.
 
-### 4. SARS-CoV-2 Enrichment Sequencing by SPiked Primer MSSPE (UCSF/CZBioHub)
- > [Released - MSSPE Protocol](https://www.protocols.io/view/sars-cov-2-enrichment-sequencing-by-spiked-primer-bc36iyre)
+### 4. SARS-CoV-2 Enrichment Sequencing by Spiked Primer MSSPE (UCSF/CZBioHub)
+- [MSSPE Protocol](https://www.protocols.io/view/sars-cov-2-enrichment-sequencing-by-spiked-primer-bc36iyre)
 
 ### 5. Illumina Shotgun Metagenomics Sequencing Protocol
- > [Released - Application Note](https://www.illumina.com/content/dam/illumina-marketing/documents/products/appnotes/ngs-coronavirus-app-note-1270-2020-001.pdf)
+- [Application Note](https://www.illumina.com/content/dam/illumina-marketing/documents/products/appnotes/ngs-coronavirus-app-note-1270-2020-001.pdf)
 
 
 ---
@@ -43,18 +42,18 @@ Release pending clearance.
 
 # Bioinformatics Tools, Scripts and Workflows
 
-### CDC NCIRD/DVD Bioinformatics SOPs
+### 1. CDC NCIRD/DVD Bioinformatics SOPs
 Release pending clearance.
 
-### CLCbio Genomics Workbench
-SARSCoV2 Assembly/Analysis Tutorial and FAQs (Illumina/ONT/Ion data) - TBD
+### 2. CLCbio Genomics Workbench
+- SARSCoV2 Assembly/Analysis Tutorial and FAQs (Illumina/ONT/Ion data) - TBD
 
-### ARTIC Network Bioinformatics
- > [Bioinformatics Environment](https://artic.network/ncov-2019/ncov2019-it-setup.html)
-  
- > [Bioinformatics SOP](https://artic.network/ncov-2019/ncov2019-bioinformatics-sop.html)
- 
- > [RAMPART Runtime Docs](https://artic.network/ncov-2019/ncov2019-using-rampart.html)
+### 3. ARTIC Network Bioinformatics
+- [Bioinformatics Environment Setup/Configuration](https://artic.network/ncov-2019/ncov2019-it-setup.html)
+
+- [SARS-CoV-2 Bioinformatics SOP](https://artic.network/ncov-2019/ncov2019-bioinformatics-sop.html)
+
+- [RAMPART Runtime Documentation](https://artic.network/ncov-2019/ncov2019-using-rampart.html)
 
 
 ---
@@ -69,16 +68,16 @@ To be added.
 To be added.
 
 ### [NCBI SARS-CoV-2 Sequences - Public Domain](https://www.ncbi.nlm.nih.gov/genbank/sars-cov-2-seqs/)
- > [Genbank submission - single](https://www.ncbi.nlm.nih.gov/WebSub/)
+- [Genbank submission - single](https://www.ncbi.nlm.nih.gov/WebSub/)
 
 ### [GISAID EpiCoV - Public Access](https://platform.gisaid.org/)
- > [GISAID submission - single->batch](https://platform.gisaid.org)
+- [GISAID submission - single->batch](https://platform.gisaid.org)
 
 
 ---
 
 
-# Linking Public Sequence Accession Numbers to Case IDs (PII)
+# Linking Sequence Accession Numbers to PUI
 To be added.
 
 
@@ -94,5 +93,4 @@ To be added.
 
 ---
 
-Updates: 
-20200314 @dmaccannell - initial commit
+Updated: 20200315 @dmaccannell
