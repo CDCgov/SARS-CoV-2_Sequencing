@@ -24,13 +24,12 @@ This may move to a more "official" GitHub location, once I start to build out th
  
  > [Primer Scheme V1](https://github.com/artic-network/artic-ncov2019/tree/master/primer_schemes/nCoV-2019/V1)
  
- > [Primer Scheme V2 - 18_LEFT Revised^](https://github.com/artic-network/artic-ncov2019/tree/master/primer_schemes/nCoV-2019/V2)
- > [(^Proposed revision)](https://www.biorxiv.org/content/10.1101/2020.03.10.985150v1.full.pdf)
+ > [Primer Scheme V2 - 18_LEFT Revised^](https://github.com/artic-network/artic-ncov2019/tree/master/primer_schemes/nCoV-2019/V2) [(^Proposed revision)](https://www.biorxiv.org/content/10.1101/2020.03.10.985150v1.full.pdf)
  
- > Integrated bioinformatics (RAMPART) documentation below.
+ Integrated bioinformatics (RAMPART) documentation below.
 
 ### 3. Illumina Nextera Flex Enrichment Sequencing Protocol
-	Release pending clearance.
+Release pending clearance.
 
 ### 4. SARS-CoV-2 Enrichment Sequencing by SPiked Primer MSSPE (UCSF/CZBioHub)
  > [Released - MSSPE Protocol](https://www.protocols.io/view/sars-cov-2-enrichment-sequencing-by-spiked-primer-bc36iyre)
@@ -45,10 +44,10 @@ This may move to a more "official" GitHub location, once I start to build out th
 # Bioinformatics Tools, Scripts and Workflows
 
 ### CDC Bioinformatics SOPs
- > Release pending clearance.
+Release pending clearance.
 
 ### CLCbio Genomics Workbench
- > SARSCoV2 Assembly/Analysis Tutorial and FAQs (Illumina/ONT/Ion data) - TBD
+SARSCoV2 Assembly/Analysis Tutorial and FAQs (Illumina/ONT/Ion data) - TBD
 
 ### ARTIC Network Bioinformatics
  > [Bioinformatics Environment](https://artic.network/ncov-2019/ncov2019-it-setup.html)
@@ -64,10 +63,10 @@ This may move to a more "official" GitHub location, once I start to build out th
 # Submitting to Public Sequence Repositories
 
 ### Sequence accessioning and naming conventions
-> To be added.
+To be added.
 
 ### Recommended formatting and criteria for sample metadata
-> To be added.
+To be added.
 
 ### [NCBI SARS-CoV-2 Sequences - Public Domain](https://www.ncbi.nlm.nih.gov/genbank/sars-cov-2-seqs/)
  > [Genbank submission - single](https://www.ncbi.nlm.nih.gov/WebSub/)
@@ -80,7 +79,7 @@ This may move to a more "official" GitHub location, once I start to build out th
 
 
 # Linking Public Sequence Accession Numbers to Case IDs (PII)
- > To be added.
+To be added.
 
 
 ---
