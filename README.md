@@ -43,7 +43,7 @@ Release pending clearance.
 
 # Bioinformatics Tools, Scripts and Workflows
 
-### CDC Bioinformatics SOPs
+### CDC NCIRD/DVD Bioinformatics SOPs
 Release pending clearance.
 
 ### CLCbio Genomics Workbench
