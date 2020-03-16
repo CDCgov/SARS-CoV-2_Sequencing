@@ -1,4 +1,4 @@
-# SARS-CoV-2 Sequencing Resources
+# **SARS-CoV-2 Sequencing Resources**
 
 This repository is meant to be the start of a crowd-sourced collection of information, documentation and methods for laboratories that are planning to sequence SARS-CoV-2 genomes at any scale, in the weeks to come. This is admittedly a pretty limited first draft/collection, but I hope that it will continue to grow as additional protocols, tools, and resources are added.
 
@@ -10,14 +10,13 @@ This may move to a more "official" GitHub location, once I start to build out th
 ---
 
 
-# Sequencing Protocols
+# **Sequencing Protocols**
 
-### 1. CDC NCIRD/DVD Sequencing Protocols
-- ONT Sequencing Protocol: Release pending clearance.
+## 1. OXFORD NANOPORE
+### a) CDC NCIRD/DVD ONT Sequencing Protocol
+- Release pending clearance.
 
-- Sanger Tiling: Release pending clearance.
-
-### 2. [ARTIC Network nCoV-2019 Sequencing Protocol](https://artic.network/ncov-2019)
+### b) [ARTIC Network nCoV-2019 Sequencing Protocol](https://artic.network/ncov-2019)
 
 - [Sequencing protocol](https://www.protocols.io/view/ncov-2019-sequencing-protocol-bbmuik6w) / [Single sample sequencing protocol](https://www.protocols.io/view/ncov-2019-sequencing-protocol-single-sample-bdbfi2jn)
 
@@ -27,20 +26,26 @@ This may move to a more "official" GitHub location, once I start to build out th
 
 - Integrated bioinformatics (RAMPART) documentation below.
 
-### 3. Illumina Nextera Flex Enrichment Sequencing Protocol
+### c) Doherty Institute Native RNA Sequencing Protocol
+- [Sequencing Protocol](./protocols/ONT-Native_RNA) [(ref)](https://www.biorxiv.org/content/10.1101/2020.03.05.976167v1.full.pdf)
+
+## 2. ILLUMINA
+### a) Illumina Nextera Flex Enrichment Sequencing Protocol
 - Release imminent.
 
-### 4. SARS-CoV-2 Enrichment Sequencing by Spiked Primer MSSPE (UCSF/CZBioHub)
+### b) SARS-CoV-2 Enrichment Sequencing by Spiked Primer MSSPE (UCSF/CZBioHub)
 - [MSSPE Protocol](https://www.protocols.io/view/sars-cov-2-enrichment-sequencing-by-spiked-primer-bc36iyre)
 
-### 5. Illumina Shotgun Metagenomics Sequencing Protocol
+### c) Illumina Shotgun Metagenomics Sequencing Protocol
 - [Application Note](https://www.illumina.com/content/dam/illumina-marketing/documents/products/appnotes/ngs-coronavirus-app-note-1270-2020-001.pdf)
 
-
+## 3. OTHER
+### a) CDC NCIRD/DVD Sanger Tiling
+- Release pending clearance.
 ---
 
 
-# Bioinformatics Tools, Scripts and Workflows
+# **Bioinformatics Tools, Scripts and Workflows**
 
 ### 1. CDC NCIRD/DVD Bioinformatics SOPs
 Release pending clearance.
@@ -59,7 +64,7 @@ Release pending clearance.
 ---
 
 
-# Submitting to Public Sequence Repositories
+# **Submitting to Public Sequence Repositories**
 
 ### Sequence accessioning and naming conventions
 To be added.
@@ -77,14 +82,14 @@ To be added.
 ---
 
 
-# Linking Sequence Accession Numbers to PUI
+# **Linking Sequence Accession Numbers to PUI**
 To be added.
 
 
 ---
 
 
-# Other Useful References and Resources
+# **Other Useful References and Resources**
 
 ### [Nextstrain hCoV-19](https://www.nextstrain.org/ncov)
 ### [Virological Novel 2019 Coronavirus forum](http://virological.org/c/novel-2019-coronavirus)
