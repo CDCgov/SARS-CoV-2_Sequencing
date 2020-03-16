@@ -29,6 +29,9 @@ This may move to a more "official" GitHub location, once I start to build out th
 ### c) Doherty Institute Native RNA Sequencing Protocol
 - [Sequencing Protocol](./protocols/ONT-Native_RNA) [(ref)](https://www.biorxiv.org/content/10.1101/2020.03.05.976167v1.full.pdf)
 
+### d) Doherty Institute SISPA Sequencing Protocol
+- [Sequencing Protocol](./protocols/ONT-SISPA)
+
 ## 2. ILLUMINA
 ### a) Illumina Nextera Flex Enrichment Sequencing Protocol
 - Release imminent.
@@ -48,7 +51,7 @@ This may move to a more "official" GitHub location, once I start to build out th
 # **Bioinformatics Tools, Scripts and Workflows**
 
 ### 1. CDC NCIRD/DVD Bioinformatics SOPs
-Release pending clearance.
+- Release pending clearance.
 
 ### 2. CLCbio Genomics Workbench
 - SARSCoV2 Assembly/Analysis Tutorial and FAQs (Illumina/ONT/Ion data) - TBD
@@ -67,10 +70,10 @@ Release pending clearance.
 # **Submitting to Public Sequence Repositories**
 
 ### Sequence accessioning and naming conventions
-To be added.
+- To be added.
 
 ### Recommended formatting and criteria for sample metadata
-To be added.
+- To be added.
 
 ### [NCBI SARS-CoV-2 Sequences - Public Domain](https://www.ncbi.nlm.nih.gov/genbank/sars-cov-2-seqs/)
 - [Genbank submission - single](https://www.ncbi.nlm.nih.gov/WebSub/)
