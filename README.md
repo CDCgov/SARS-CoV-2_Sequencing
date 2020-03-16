@@ -57,6 +57,7 @@ SARS-CoV-2 Parallel Sequencing by Illumina and ONT (UWMadison Friedrich/OConnor 
 
 ### 1. CDC NCIRD/DVD Bioinformatics SOPs
 - Release pending clearance.
+- [IRMA: Iterative Refinement Meta-Assembler](https://wonder.cdc.gov/amd/flu/irma)
 
 ### 2. CLCbio Genomics Workbench
 - SARSCoV2 Assembly/Analysis Tutorial and FAQs (Illumina/ONT/Ion data) - TBD
