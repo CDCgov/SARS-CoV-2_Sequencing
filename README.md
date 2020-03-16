@@ -42,7 +42,12 @@ This may move to a more "official" GitHub location, once I start to build out th
 ### c) Illumina Shotgun Metagenomics Sequencing Protocol
 - [Application Note](https://www.illumina.com/content/dam/illumina-marketing/documents/products/appnotes/ngs-coronavirus-app-note-1270-2020-001.pdf)
 
-## 3. OTHER
+## 3. MIXED
+SARS-CoV-2 Parallel Sequencing by Illumina and ONT (UWMadison Friedrich/OConnor ZEST)
+- [Protocol](https://openresearch.labkey.com/wiki/ZEST/Ncov/page.view?name=SARS0CoV-2%20Deep%20Sequencing)
+- [Github resources](https://github.com/katarinabraun/SARS-CoV-2_sequencing)
+
+## 4. SANGER
 ### a) CDC NCIRD/DVD Sanger Tiling
 - Release pending clearance.
 ---
@@ -66,6 +71,10 @@ This may move to a more "official" GitHub location, once I start to build out th
 
 ---
 
+# **Quality Management**
+- To be added.
+---
+
 
 # **Submitting to Public Sequence Repositories**
 
@@ -85,7 +94,7 @@ This may move to a more "official" GitHub location, once I start to build out th
 ---
 
 
-# **Linking Sequence Accession Numbers to PUI**
+# **Linking Sequence Accessions**
 To be added.
 
 
@@ -96,9 +105,10 @@ To be added.
 
 ### [Nextstrain hCoV-19](https://www.nextstrain.org/ncov)
 ### [Virological Novel 2019 Coronavirus forum](http://virological.org/c/novel-2019-coronavirus)
+### [CNCB 2019 Novel Coronavirus Resource (2019nCoVR)](https://bigd.big.ac.cn/ncov?lang=en)
 
 
 
 ---
 
-Updated: 20200315 @dmaccannell
+Updated: 20200316 [@dmaccannell](https://www.twitter.com/dmaccannell)
