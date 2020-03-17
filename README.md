@@ -92,7 +92,6 @@ The [ARTIC Network](https://artic.network) has released detailed instructions on
 
 - [Additional documentation and bioinformatics details](https://docs.onecodex.com/en/articles/3793936-covid-19-sequencing-analysis)
 
-
 ---
 
 # **Quality Management**
@@ -104,7 +103,7 @@ This section will describe best practices for laboratory and bioinformatic quali
 
 # **Submitting to Public Sequence Repositories**
 
-### Sequence naming conventions for public repositories
+## Sequence naming conventions for public repositories
 We are proposing simplified naming conventions for sequences submitted to GISAID and NCBI from US public health and clinical laboratories.
 
 **COUNTRY** | /  **STATE-LAB-SAMPLE**  / | **YEAR**
@@ -123,12 +122,26 @@ For states with only one submitting laboratory (which should be most), the ident
 
 *These recommendations are roughly compatible with existing submissions to GISAID and NCBI, but are completely open for debate.*
 
-### Recommended formatting and criteria for sample metadata
+## Recommended formatting and criteria for sample metadata
 
-#### [NCBI SARS-CoV-2 Sequences](https://www.ncbi.nlm.nih.gov/genbank/sars-cov-2-seqs/) [(submit)](https://www.ncbi.nlm.nih.gov/WebSub/)
-The National Center for Biotechnology has established a custom landing page for SARS-CoV-2 sequences and data, and is working to develop streamlined submission processes for Genbank and SRA.  For the time being, we suggest basing metadata and submission formatting on GISAID EpiCoV, which tends to be more comprehensive and structured. We will develop specific guidance for NCBI submissions.
+### [NCBI SARS-CoV-2 Genbank/SRA](https://www.ncbi.nlm.nih.gov/genbank/sars-cov-2-seqs/)
+The National Center for Biotechnology has established a custom landing page for SARS-CoV-2 sequences and data, and is working to develop streamlined submission processes for Genbank and SRA.  For the time being, we suggest basing metadata and submission formatting on GISAID EpiCoV, which tends to be more comprehensive and structured. We will develop specific guidance for NCBI submissions.  In the meantime, here are some resources to help with NCBI data submission and metadata management.
 
-#### [GISAID EpiCoV](https://www.gisaid.org/)
+#### 1. NCBI Submission Portal
+Individual sequences can be submitted to NCBI using the following web form. Create an NCBI user account, and select "SARS-CoV-2 (through BankIt)".
+- [Genbank Submission Portal](https://www.ncbi.nlm.nih.gov/WebSub/)
+
+#### 2. NCBI Batch Submissions
+NCBI has indicated that they plan to develop a specific rapid submission process for SARS-CoV-2 sequences. In the meantime, I believe you should be able to follow the FDA/CFSAN submission protocol below, which includes links to appropriate interfaces and templates (with obvious changes for pathogen and project information).
+
+#### 3. FDA/CFSAN NCBI Submission and Data Curation Protocols
+The Center for Food Safety and Applied Nutrition ([CFSAN](https://www.fda.gov/about-fda/fda-organization/center-food-safety-and-applied-nutrition-cfsan)) at FDA has released a number of protocols as part of the [GenomeTrakr Network](https://www.fda.gov/food/whole-genome-sequencing-wgs-program/genometrakr-network) that may be useful for NCBI sequence submission and metadata curation.
+
+- [NCBI submission protocol for microbial pathogen surveillance](https://www.protocols.io/view/ncbi-submission-protocol-for-microbial-pathogen-su-9aph2dn)
+- [Populating the NCBI pathogen metadata template](https://www.protocols.io/view/populating-the-ncbi-pathogen-metadata-template-bck3iuyn)
+- NCBI Data Curation - Pending release
+
+### [GISAID EpiCoV](https://www.gisaid.org/)
 
 The GISAID EpiCoV Public Access repository is based on existing submission processes and data structures for large-scale influenza surveillance (GISAID EpiFlu). As such, submitters to EpiCoV will discover that several of the required metadata submission fields may be problematic.  Nonetheless, a number of laboratories have been submitting sequences with the following:
 
@@ -160,8 +173,8 @@ Note that for GISAID submissions, users must register for an account, and must s
 # **Linking Sequence Accessions**
 For data linkage, we are proposing the following template, as a simple, lightweight line list of tab-separated values. If this consensus recommendation for data linkage is acceptable, a preformatted .TSV will be made available. We recognize that not all samples sent for sequencing have a PUID associated.
 
-STATE | GISAID ID | GENBANK ID | COLLECTION DATE | PUID/COVID-ID
---- | --- | --- | --- | --- 
+SEQUENCE_NAME | GISAID_ID | GENBANK_ID | COLLECTION_DATE | PUID/COVID-ID
+--- | --- | --- | --- | ---
 
 In this simple proposed schema, GISAID ID or GENBANK ID and COLLECTION DATE are required fields, and our hope is to maximize PUID completion.  All accession numbers, including PUID should be entered without any superfluous text or annotation.
 
@@ -178,4 +191,4 @@ In this simple proposed schema, GISAID ID or GENBANK ID and COLLECTION DATE are 
 
 ---
 
-Updated: 20200316 [@dmaccannell](https://www.twitter.com/dmaccannell)
+Updated: 20200317 [@dmaccannell](https://www.twitter.com/dmaccannell)
