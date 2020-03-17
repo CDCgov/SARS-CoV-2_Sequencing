@@ -112,7 +112,7 @@ We are proposing simplified naming conventions for sequences submitted to GISAID
 
 For states with only one submitting laboratory (which should be most), the identifier for the submitting laboratory may be omitted, resulting in a simple, state-level identifier such as `USA/UT-573/2020`.
 
-** These recommendations are roughly compatible with existing submissions to GISAID and NCBI, but are completely open for debate.*
+*These recommendations are roughly compatible with existing submissions to GISAID and NCBI, but are completely open for debate.*
 
 ### Recommended formatting and criteria for sample metadata
 
