@@ -83,6 +83,15 @@ The [ARTIC Network](https://artic.network) has released detailed instructions on
 
 - [RAMPART Runtime Documentation](https://artic.network/ncov-2019/ncov2019-using-rampart.html)
 
+### 4. One Codex 
+[One Codex](https://www.onecodex.com) has added support to its analysis platform for analyzing SARS-CoV-2 samples. This analysis ([example](https://app.onecodex.com/report/public/2b15c38901224e5f)) will be automatically run on any samples with SARS-CoV-2 reads. One Codex is making analysis of SARS-CoV-2 samples available **free of charge** for all users sharing their results and data publicly. Additional information and documentation are available below:
+
+- [Blog post introducing COVID-19 analysis support](https://www.onecodex.com/blog/2020/03/16/covid-19-sequencing-analysis/)
+
+- [An example report](https://app.onecodex.com/report/public/2b15c38901224e5f)
+
+- [Additional documentation and bioinformatics details](https://docs.onecodex.com/en/articles/3793936-covid-19-sequencing-analysis)
+
 
 ---
 
