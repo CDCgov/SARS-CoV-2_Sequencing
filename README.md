@@ -50,6 +50,14 @@ The NIAID laboratory team in Cambodia, in collaboration with UCSF, CZBioHub and 
 Illumina's technical note on sequencing coronavirus samples using a comprehensive metagenomic sequencing approach was one of the earlier protocols released for SARS-CoV-2, and remains an effective option for shotgun sequencing.
 - [Application Note](https://www.illumina.com/content/dam/illumina-marketing/documents/products/appnotes/ngs-coronavirus-app-note-1270-2020-001.pdf)
 
+### d) SARS-CoV-2 and related virus sequencing with capture enrichment (Broad Institute)
+The Sabeti lab, at the Broad Institute, released a probe set for comprehensive whole-genome capture of SARS-CoV-2 and respiratory-related viruses (human-infecting coronaviruses, HRSV, HMPV, HPIVs, Human mastadenovirus A-G, Enterovirus A-E, Rhinovirus A/B/C, influenza A/B/C).
+The probe set is available as V-Respiratory on the [probe designs page](https://github.com/broadinstitute/catch/tree/master/probe-designs) of the CATCH repository.
+It was initially released in January, 2020 and most recently updated in March, 2020.
+Probes can be ordered from Twist Bioscience; we have used the protocol for [Twist custom panels](https://www.twistbioscience.com/products/ngs#product-featured-2911) with slight modifications for low input Nextera XT libraries.
+- [Probe set](https://github.com/broadinstitute/catch/tree/master/probe-designs)
+- [Design approach and prior results](https://www.nature.com/articles/s41587-018-0006-x)
+
 ## _**3. TANDEM**_
 ### a) SARS-CoV-2 Parallel Sequencing by Illumina and ONT (UWMadison ZEST)
 Staff and students from Thomas Friedrich and Dave O'Connor's laboratories at UWMadison have put together a tandem sequencing protocol and bioinformatic workflow that incorporates Illumina and ONT sequence. While this may be overkill for routine or high-throughput public health purposes, the necessary protocols, scripts and documentation are available here.
