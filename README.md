@@ -94,6 +94,22 @@ The [ARTIC Network](https://artic.network) has released detailed instructions on
 
 - [Additional documentation and bioinformatics details](https://docs.onecodex.com/en/articles/3793936-covid-19-sequencing-analysis)
 
+### 5. Broad viral-ngs tools
+The Broad Institute's viral genomics analysis tools can assist with assembly, metagenomics, QC, and NCBI submission prep, for Illumina-generated data on viral genomes. It is available in the following forms:
+
+- The Terra cloud platform ([workspace](https://app.terra.bio/#workspaces/pathogen-genomic-surveillance/COVID-19) including example SARS-CoV-2 data from SRA, [blog post](https://support.terra.bio/hc/en-us/articles/360040613432), [getting started](https://support.terra.bio/hc/en-us/articles/360041068771)) 
+- The DNAnexus cloud platform ([workflows](https://platform.dnanexus.com/projects/F8PQ6380xf5bK0Qk0YPjB17P/data/build/quay.io/broadinstitute/viral-pipelines/2.0.11.0-rc23))
+- The Dockstore tool repository service - integrates with several cloud platforms, or download to run on-prem ([workflows](https://dockstore.org/organizations/BroadInstitute/collections/pgs))
+- Github ([workflows](https://github.com/broadinstitute/viral-pipelines/tree/master/pipes/WDL))
+
+The tools include:
+- denovo and reference based assembly
+- short read alignment and coverage plots
+- krakenuniq metagenomic classification
+- NCBI: SRA download, Genbank annotation download, Genbank submission prep
+- multiple alignment of genomes w/MAFFT
+- Illumina basecalling & demux, metrics, fastQC, ERCC spike-in counter
+
 ---
 
 # **Quality Management**
