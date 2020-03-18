@@ -118,6 +118,16 @@ The tools include:
 - multiple alignment of genomes w/MAFFT
 - Illumina basecalling & demux, metrics, fastQC, ERCC spike-in counter
 
+### 6. Genome Detective Virus tool
+
+Genome Detective virus tool does QC, assembly and identification of SARS-CoV-2 from a wide range of sequencing protocols (metagenomic or targeted sequencing).
+
+Raw sequence read files (FASTQ) can be uploaded directly in this [web-based tool](https://www.genomedetective.com/app/typingtool/virus/), and consensus sequences can be subsequently analyzed by the [the Coronavirus Typing Tool](https://www.genomedetective.com/app/typingtool/cov).
+
+Example output:
+- [Minion](https://www.genomedetective.com/app/typingtool/virus/job/example-SARSCoV2-nanopore)
+- [Illumina](https://www.genomedetective.com/app/typingtool/virus/job/example-SARSCoV2-illumina)
+
 ---
 
 # **Quality Management**
