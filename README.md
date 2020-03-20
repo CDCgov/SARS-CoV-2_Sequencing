@@ -5,13 +5,13 @@ This document repository is meant to serve as the start of a crowd-sourced colle
 This collection is maintained and curated by [Duncan MacCannell](https://www.twitter.com/dmaccannell) from the Office of Advanced Molecular Detection ([AMD](https://www.cdc.gov/amd)) at the Centers for Disease Control and Prevention ([CDC](https://www.cdc.gov)). Please feel free to suggest additions, edits, clarifications and corrections -- either by posting an issue, filing a pull request or by contacting me directly by email or twitter.  In the meantime, I'll continue to add and mirror useful resources here as they become available.
 
 ## INDEX
-### [Sequencing Protocols](#sequencing)
-### [Bioinformatic Tools, Scripts and Workflows](#bioinformatics)
-### [Quality Management](#quality)
-### [Submitting to Public Sequence Repositories](#submitting)
-### [Linking Sequence Accessions](#linking)
-### [Other Useful References and Resources](#resources)
-### [Notices and Disclaimers](#notices)
+- [Sequencing Protocols](#sequencing)
+- [Bioinformatic Tools, Scripts and Workflows](#bioinformatics)
+- [Quality Management](#quality)
+- [Submitting to Public Sequence Repositories](#submitting)
+- [Linking Sequence Accessions](#linking)
+- [Other Useful References and Resources](#resources)
+- [Notices and Disclaimers](#notices)
 
 
 *Disclaimer*
