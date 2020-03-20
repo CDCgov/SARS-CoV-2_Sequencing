@@ -79,8 +79,11 @@ This section describes the basic bioinformatic workflow that the Viral Discovery
 - [IRMA: Iterative Refinement Meta-Assembler](https://wonder.cdc.gov/amd/flu/irma) is available here.
 
 ### 2. CLCbio Genomics Workbench
-QIAGEN CLCbio will be releasing a set of CLCbio SARS-CoV-2 workflows that have been optimized for Illumina, ONT and IonTorrent sequencing platforms.  More information, download instructions and tutorials will be available within the next several days.
-- SARSCoV2 Assembly/Analysis Tutorial and FAQs (Illumina/ONT/Ion data) - TBD
+QIAGEN has released example workflows and tutorials for analyzing Illumina and Oxford Nanopore SARS-CoV-2 sequence data using CLC Genomics Workbench v20.0.3. Note - these workflows are "Research Use Only" (RUO), and may need to modified to fit upstream protocols.  Free temporary licenses for CLC GWB and IPA are available, as well as a series of webinars and tutorials are available to familiarize users with the workflows. [Jonathan Jacobs](mailto:jonathan.jacobs@qiagen.com) and [Leif Schauser](mailto:leif.schauser@qiagen.com) are available for user support and specific questions. 
+
+- [Temporary licenses for CLC Genomics Workbench and Ingenuity Pathway Analysis](https://go.qiagen.com/QDI-COVID19)
+- [SARS-CoV-2 Analysis Tutorial with Nanopore Data](https://resources.qiagenbioinformatics.com/tutorials/Analysis_of_SARS-CoV-2.pdf) [(Figure)](https://user-images.githubusercontent.com/64888/77170622-ad637500-6a91-11ea-9b2a-f6f3cda4981e.png)
+- [SARSCOV2 Workflow and Tutorial Data for Nanopore Data](http://resources.qiagenbioinformatics.com/testdata/SARS-CoV-2_MinION_example_data.zip) [(Figure)](https://user-images.githubusercontent.com/64888/77166238-4098ac80-6a8a-11ea-9b38-534fe956258b.png)
 
 ### 3. ARTIC Network Bioinformatics
 The [ARTIC Network](https://artic.network) has released detailed instructions on how to setup and configure the conda environment needed to run their analysis pipelines. These are complete bioinformatic workflows, including runtime visualization, basecalling, mapping/assembly and reporting in a single, portable environment. The [artic-nCoV2019](https://github.com/artic-network/artic-ncov2019) repo includes source code and build instructions for a custom RAMPART configuration.  Additional instructions and documentation are available below.
