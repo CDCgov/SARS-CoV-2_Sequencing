@@ -4,6 +4,16 @@ This document repository is meant to serve as the start of a crowd-sourced colle
 
 This collection is maintained and curated by [Duncan MacCannell](https://www.twitter.com/dmaccannell) from the Office of Advanced Molecular Detection ([AMD](https://www.cdc.gov/amd)) at the Centers for Disease Control and Prevention ([CDC](https://www.cdc.gov)). Please feel free to suggest additions, edits, clarifications and corrections -- either by posting an issue, filing a pull request or by contacting me directly by email or twitter.  In the meantime, I'll continue to add and mirror useful resources here as they become available.
 
+## INDEX
+### [Sequencing Protocols](#sequencing)
+### [Bioinformatic Tools, Scripts and Workflows](#bioinformatics)
+### [Quality Management](#quality)
+### [Submitting to Public Sequence Repositories](#submitting)
+### [Linking Sequence Accessions](#linking)
+### [Other Useful References and Resources](#resources)
+### [Notices and Disclaimers](#notices)
+
+
 *Disclaimer*
 > The findings and conclusions in this document and the attendant repository are those of the author and do not necessarily represent the official position of the Centers for Disease Control and Prevention. Use of trade names is for identiﬁcation only and does not imply endorsement by the Centers for Disease Control and Prevention or by the U.S. Department of Health and Human Services.
 
@@ -11,7 +21,7 @@ This collection is maintained and curated by [Duncan MacCannell](https://www.twi
 ---
 
 
-# **Sequencing Protocols**
+# **Sequencing Protocols**<a id="sequencing" />
 
 ## _**1. OXFORD NANOPORE**_
 The following sequencing protocols, checklists and job-aids are primarily designed for the Oxford Nanopore [MinION](https://nanoporetech.com/products/minion), and have been kindly shared by research groups throughout the world (please see individual protocols for attribution and citing purposes). Even so, most of these protocols should scale to larger ONT instruments without significant modifications.
@@ -71,7 +81,7 @@ An elegant approach from a more civilized age. The Viral Discovery laboratory te
 ---
 
 
-# **Bioinformatics Tools, Scripts and Workflows**
+# **Bioinformatic Tools, Scripts and Workflows**<a id="bioinformatics" />
 
 ### 1. CDC NCIRD/DVD Bioinformatics SOPs
 This section describes the basic bioinformatic workflow that the Viral Discovery laboratory in NCIRD, and other teams at CDC use for quality assessment, assembly and comparison of coronavirus sequences. IRMA, the Iterative Refinement Meta-Assembler developed by CDC's Influenza Division for routine influenza surveillance, has recently been updated to support both ebolavirus and coronavirus assembly tasks. While IRMA isn't used for all SARS-CoV-2 assemblies at CDC, it is a powerful tool for complex or problematic samples and datasets.
@@ -137,14 +147,14 @@ Example output:
 
 ---
 
-# **Quality Management**
+# **Quality Management**<a id="quality" />
 This section will describe best practices for laboratory and bioinformatic quality assurance, including preflight checks for sequence and metadata submission to public repositories.
 - **to do**: I'd love for people to help describe their actual QC processes.
 
 ---
 
 
-# **Submitting to Public Sequence Repositories**
+# **Submitting to Public Sequence Repositories**<a id="submitting" />
 
 ## Sequence naming conventions for public repositories
 We are proposing simplified naming conventions for sequences submitted to GISAID and NCBI from US public health and clinical laboratories.
@@ -213,7 +223,7 @@ Note that for GISAID submissions, users must register for an account, and must s
 ---
 
 
-# **Linking Sequence Accessions**
+# **Linking Sequence Accessions**<a id="linking" />
 For data linkage, we are proposing the following template, as a simple, lightweight line list of tab-separated values. If this consensus recommendation for data linkage is acceptable, a preformatted .TSV will be made available. We recognize that not all samples sent for sequencing have a PUID associated.
 
 SEQUENCE_NAME | GISAID_ID | GENBANK_ID | COLLECTION_DATE | PUID/COVID-ID
@@ -225,7 +235,7 @@ In this simple proposed schema, GISAID ID or GENBANK ID and COLLECTION DATE are 
 ---
 
 
-# **Other Useful References and Resources**
+# **Other Useful References and Resources**<a id="resources" />
 
 ### [Nextstrain hCoV-19](https://www.nextstrain.org/ncov)
 ### [Virological Novel 2019 Coronavirus forum](http://virological.org/c/novel-2019-coronavirus)
@@ -234,7 +244,7 @@ In this simple proposed schema, GISAID ID or GENBANK ID and COLLECTION DATE are 
 ### [SARS-CoV-2 PCR Primer List - Grubaugh Lab, Yale SPH](https://docs.google.com/spreadsheets/d/1kWLdaqWZZYt383EMSf-osyXGdeedrRF6YeBuOBin6Ok/edit#gid=0)
 
 ---
-# **Notices and Disclaimers**
+# **Notices and Disclaimers**<a id="notices" />
 ## Public Domain
 
 This repository constitutes a work of the United States Government and is not
