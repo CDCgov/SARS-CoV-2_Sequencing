@@ -131,6 +131,10 @@ Example output:
 - [Minion](https://www.genomedetective.com/app/typingtool/virus/job/example-SARSCoV2-nanopore)
 - [Illumina](https://www.genomedetective.com/app/typingtool/virus/job/example-SARSCoV2-illumina)
 
+### 7. CosmosID
+[CosmosID](https://www.cosmosid.com) has recently posted a blog entry on their site, describing how to use their web-based analysis platform to analyze SARS-CoV-2 data.
+- [Detection of SARS-CoV-2 Coronavirus using CosmosID](https://www.cosmosid.com/blog-in/2020/3/13/metagenomic-detection-of-sars-cov-2-coronavirus-using-cosmosid)
+
 ---
 
 # **Quality Management**
