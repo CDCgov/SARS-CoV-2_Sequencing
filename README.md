@@ -231,6 +231,8 @@ In this simple proposed schema, GISAID ID or GENBANK ID and COLLECTION DATE are 
 ### [Virological Novel 2019 Coronavirus forum](http://virological.org/c/novel-2019-coronavirus)
 ### [CNCB 2019 Novel Coronavirus Resource (2019nCoVR)](https://bigd.big.ac.cn/ncov?lang=en)
 
+### [SARS-CoV-2 PCR Primer List - Grubaugh Lab, Yale SPH](https://docs.google.com/spreadsheets/d/1kWLdaqWZZYt383EMSf-osyXGdeedrRF6YeBuOBin6Ok/edit#gid=0)
+
 ---
 # **Notices and Disclaimers**
 ## Public Domain
