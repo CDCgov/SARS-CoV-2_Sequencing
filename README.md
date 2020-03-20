@@ -237,11 +237,15 @@ In this simple proposed schema, GISAID ID or GENBANK ID and COLLECTION DATE are 
 
 # **Other Useful References and Resources**<a id="resources" />
 
-### [Nextstrain hCoV-19](https://www.nextstrain.org/ncov)
-### [Virological Novel 2019 Coronavirus forum](http://virological.org/c/novel-2019-coronavirus)
-### [CNCB 2019 Novel Coronavirus Resource (2019nCoVR)](https://bigd.big.ac.cn/ncov?lang=en)
+## Slides and Presentations
+- [StaPH-B SARS-CoV-2 Sequencing Seminar (Kevin Libuit, Virginia DCLS - 20200320)](./slides/SC2_Sequencing_and_Analysis_Libuit.pdf) [(Recording)](http://www.staphb.org/resources/staphb-videos/)
 
-### [SARS-CoV-2 PCR Primer List - Grubaugh Lab, Yale SPH](https://docs.google.com/spreadsheets/d/1kWLdaqWZZYt383EMSf-osyXGdeedrRF6YeBuOBin6Ok/edit#gid=0)
+## Visualization and Phylogenetics
+- [Nextstrain hCoV-19](https://www.nextstrain.org/ncov)
+- [CNCB 2019 Novel Coronavirus Resource (2019nCoVR)](https://bigd.big.ac.cn/ncov?lang=en)
+
+## Diagnostic Resources
+- [SARS-CoV-2 PCR Primer List (Grubaugh Lab, Yale SPH)](https://docs.google.com/spreadsheets/d/1kWLdaqWZZYt383EMSf-osyXGdeedrRF6YeBuOBin6Ok/edit#gid=0)
 
 ---
 # **Notices and Disclaimers**<a id="notices" />
