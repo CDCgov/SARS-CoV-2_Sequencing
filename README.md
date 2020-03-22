@@ -146,6 +146,11 @@ Example output:
 [CosmosID](https://www.cosmosid.com) has recently posted a blog entry on their site, describing how to use their web-based analysis platform to analyze SARS-CoV-2 data.
 - [Detection of SARS-CoV-2 Coronavirus using CosmosID](https://www.cosmosid.com/blog-in/2020/3/13/metagenomic-detection-of-sars-cov-2-coronavirus-using-cosmosid)
 
+### 8. ARTIC on Illumina Bioinformatic Workflow
+Erin Young and Kelly Oakeson at the Utah Department of Health have outlined their bioinformatics approach for SARS-CoV-2 sequences using ARTIC primers, sequenced on Illumina.
+- [Bioinformatic protocol](./protocols/BFX-UT_ARTIC_Illumina)
+- [iVar GitHub (Andersen Lab @ Scripps)](https://github.com/andersen-lab/ivar) and [documentation](https://andersen-lab.github.io/ivar/html/)
+
 ---
 
 # **Quality Management**<a id="quality" />
@@ -179,7 +184,7 @@ For states with only one submitting laboratory (which should be most), the ident
 ## Recommended formatting and criteria for sample metadata
 
 ### [NCBI SARS-CoV-2 Genbank/SRA](https://www.ncbi.nlm.nih.gov/genbank/sars-cov-2-seqs/)
-The National Center for Biotechnology has established a custom landing page for SARS-CoV-2 sequences and data, and is working to develop streamlined submission processes for Genbank and SRA.  For the time being, we suggest basing metadata and submission formatting on GISAID EpiCoV, which tends to be more comprehensive and structured. We will develop specific guidance for NCBI submissions.  In the meantime, here are some resources to help with NCBI data submission and metadata management.
+The National Center for Biotechnology has established a custom landing page for SARS-CoV-2 sequences and data, and is working to develop streamlined submission processes for Genbank and SRA.  For the time being, we suggest basing metadata and submission formatting on GISAID EpiCoV, which tends to be more comprehensive and structured. We will develop specific guidance for NCBI submissions.  In the meantime, here are some general resources to help with NCBI data submission and metadata management.
 
 #### 1. NCBI Submission Portal
 Individual sequences can be submitted to NCBI using the following web form. Create an NCBI user account, and select "SARS-CoV-2 (through BankIt)".
@@ -189,7 +194,7 @@ Individual sequences can be submitted to NCBI using the following web form. Crea
 NCBI has indicated that they plan to develop a specific rapid submission process for SARS-CoV-2 sequences. In the meantime, I believe you should be able to follow the FDA/CFSAN submission protocol below, which includes links to appropriate interfaces and templates (with obvious changes for pathogen and project information).
 
 #### 3. FDA/CFSAN NCBI Submission and Data Curation Protocols
-The Center for Food Safety and Applied Nutrition ([CFSAN](https://www.fda.gov/about-fda/fda-organization/center-food-safety-and-applied-nutrition-cfsan)) at FDA has released a number of protocols as part of the [GenomeTrakr Network](https://www.fda.gov/food/whole-genome-sequencing-wgs-program/genometrakr-network) that may be useful for NCBI sequence submission and metadata curation.
+The FDA Center for Food Safety and Applied Nutrition ([CFSAN](https://www.fda.gov/about-fda/fda-organization/center-food-safety-and-applied-nutrition-cfsan)) has released a number of protocols as part of their [GenomeTrakr Network](https://www.fda.gov/food/whole-genome-sequencing-wgs-program/genometrakr-network) that may be useful for NCBI sequence submission and metadata curation. While they are written specifically for laboratories that are conducting routine sequencing of foodborne bacterial pathogens, these protocols provide an overview of sequence submission to the NCBI pathogen portal, metadata and preflight data checks.
 
 - [NCBI submission protocol for microbial pathogen surveillance](https://www.protocols.io/view/ncbi-submission-protocol-for-microbial-pathogen-su-9aph2dn)
 - [Populating the NCBI pathogen metadata template](https://www.protocols.io/view/populating-the-ncbi-pathogen-metadata-template-bck3iuyn)
@@ -310,4 +315,4 @@ published through the [CDC web site](http://www.cdc.gov).
 
 ---
 
-Updated: 20200320 [@dmaccannell](https://www.twitter.com/dmaccannell)
+Updated: 20200321 [@dmaccannell](https://www.twitter.com/dmaccannell)
