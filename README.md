@@ -82,6 +82,12 @@ An elegant approach from a more civilized age. The Viral Discovery laboratory te
 
 
 # **Bioinformatic Tools, Scripts and Workflows**<a id="bioinformatics" />
+### 0. General Resources.
+A few different sites have resources that are foundational to most bioinformatics analysis.
+- [NCBI](https://www.ncbi.nlm.nih.gov) and [EBI](https://www.ebi.ac.uk) are both INSDC public repositories, and contain all public access sequences, annotation, analysis and derived data. NCBI has added a specific landing page for SARS-CoV-2 research resources, available [here](https://www.ncbi.nlm.nih.gov/genbank/sars-cov-2-seqs/).
+- [GISAID](https://www.gisaid.org) was put into place to provide a framework for open sharing of influenza sequence data, while maintaining strict governance over the use of data and attribution to sequence submitters.
+- The original SARS-CoV-2 reference sequence, "Wuhan-Hu-1", submitted by **Zhang Yongzhen and colleagues** is mirrored from NCBI in the `sequences` [folder] here(./sequences).  In that folder, you will also find a dated set of public genomes in that folder, downloaded from NCBI on a semi-regular basis. NB: These are consensus sequences manually pulled from [NCBI](https://www.ncbi.nlm.nih.gov) Genbank. More complete sets of sequences are available at the [GISAID](https://www.gisaid.org) public access repository, which requires account registration and adherence to a strict code of conduct.
+- [Genexa](https://genexa.ch/sars2-bioinformatics-resources/) has put together a page with precomputed kmer sets, indicies, reference sequences, and a number of other useful resources for bioinformatic analysis of SARS-CoV-2 NGS data.
 
 ### 1. CDC NCIRD/DVD Bioinformatics SOPs
 This section describes the basic bioinformatic workflow that the Viral Discovery laboratory in NCIRD, and other teams at CDC use for quality assessment, assembly and comparison of coronavirus sequences. IRMA, the Iterative Refinement Meta-Assembler developed by CDC's Influenza Division for routine influenza surveillance, has recently been updated to support both ebolavirus and coronavirus assembly tasks. While IRMA isn't used for all SARS-CoV-2 assemblies at CDC, it is a powerful tool for complex or problematic samples and datasets.
