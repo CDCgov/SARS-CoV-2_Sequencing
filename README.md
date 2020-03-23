@@ -152,9 +152,13 @@ Erin Young and Kelly Oakeson at the Utah Department of Health have outlined thei
 - [iVar GitHub (Andersen Lab @ Scripps)](https://github.com/andersen-lab/ivar) and [documentation](https://andersen-lab.github.io/ivar/html/)
 
 ### 9. Galaxy
-[Workflows](https://covid19.galaxyproject.org/) are available for the [Galaxy Platform](https://galaxyproject.org/
-- [Virtual screening of the SARS-CoV-2 main protease](https://covid19.galaxyproject.org/cheminformatics/)
-- [Analysis of COVID-19 data using Galaxy, BioConda and public research infrastructure](https://covid19.galaxyproject.org/genomics)
+[Workflows](https://covid19.galaxyproject.org/) are available for the [Galaxy Platform](https://galaxyproject.org/)
+- [Cheoinformatics: Virtual screening of the SARS-CoV-2 main protease](https://covid19.galaxyproject.org/cheminformatics/)
+- [Genomics: Analysis of COVID-19 data using Galaxy, BioConda and public research infrastructure](https://covid19.galaxyproject.org/genomics)
+
+The chemoinformatics workflows can be used to conduct fragment screening using molecular docking.  **This has [already been done for the SARS-COV-2 main protease (MPro)](https://covid19.galaxyproject.org/cheminformatics/histories/)** by the [Diamond Light Source's XChem team](https://www.diamond.ac.uk/Instruments/Mx/Fragment-Screening.html), [InformaticsMatters](http://informaticsmatters.com/) and the [European Galaxy Team](https://galaxyproject.eu/).  The genomics workflows use entirely open source software and open access platforms to perform steps from [raw-read prepocessing](https://covid19.galaxyproject.org/genomics/1-PreProcessing) through [andalysis of Spike protein substitutions](https://covid19.galaxyproject.org/genomics/5-S-analysis) and [recombination and selection](https://covid19.galaxyproject.org/genomics/6-RecombinationSelection).
+
+
 ---
 
 # **Quality Management**<a id="quality" />
