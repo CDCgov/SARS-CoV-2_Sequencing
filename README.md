@@ -151,6 +151,10 @@ Erin Young and Kelly Oakeson at the Utah Department of Health have outlined thei
 - [Bioinformatic protocol](./protocols/BFX-UT_ARTIC_Illumina)
 - [iVar GitHub (Andersen Lab @ Scripps)](https://github.com/andersen-lab/ivar) and [documentation](https://andersen-lab.github.io/ivar/html/)
 
+### 9. Galaxy
+[Workflows](https://covid19.galaxyproject.org/) are available for the [Galaxy Platform](https://galaxyproject.org/
+- [Virtual screening of the SARS-CoV-2 main protease](https://covid19.galaxyproject.org/cheminformatics/)
+- [Analysis of COVID-19 data using Galaxy, BioConda and public research infrastructure](https://covid19.galaxyproject.org/genomics)
 ---
 
 # **Quality Management**<a id="quality" />
