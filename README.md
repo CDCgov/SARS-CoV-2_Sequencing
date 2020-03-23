@@ -221,7 +221,7 @@ METADATA FIELDS (GISAID) | GUIDANCE
 `Outbreak detail` | omit
 `Last vaccinated` | omit
 `Treatment` | omit
-)
+
 At a minimum, we suggest that samples be submitted with `collection date` `location` `host` information attached.  `location`, `host`, `gender` `patient age` are all required fields, and several of them likely constitute personally-identifiable information. While they cannot be left blank for submission, you can submit the record successfully (in both single or batch mode) by entering "**unknown**".
 
 Note that for GISAID submissions, users must register for an account, and must successfully submit a single submission before being granted access to the bulk submission template and interface.
