@@ -115,8 +115,6 @@ The [ARTIC Network](https://artic.network) has released detailed instructions on
 
 - [Nextflow ARTIC nCoV Workflows - Connor Lab Cardiff/PHW](https://github.com/connor-lab/ncov2019-artic-nf)
 
-- [Nextflow Core ARTIC Implementation](https://github.com/nf-core/arctic)
-
 ### 4. One Codex
 [One Codex](https://www.onecodex.com) has added support to its analysis platform for analyzing SARS-CoV-2 samples. This analysis ([example](https://app.onecodex.com/report/public/2b15c38901224e5f)) will be automatically run on any samples with SARS-CoV-2 reads. One Codex is making analysis of SARS-CoV-2 samples available **free of charge** for all users sharing their results and data publicly. Additional information and documentation are available below:
 
