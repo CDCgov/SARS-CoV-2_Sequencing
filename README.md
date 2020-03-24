@@ -37,7 +37,9 @@ This protocol was developed and released by the fine folks at [ARTIC Network](ht
 
 - [Stepwise simplified protocol from ONT*](./protocols/ONT-COVID-19_Tiling)
 
-- Primer schemes: [V1](https://github.com/artic-network/artic-ncov2019/tree/master/primer_schemes/nCoV-2019/V1) / [V2](https://github.com/artic-network/artic-ncov2019/tree/master/primer_schemes/nCoV-2019/V2) [(ref)](https://www.biorxiv.org/content/10.1101/2020.03.10.985150v1.full.pdf)
+- Primer schemes: [V1](https://github.com/artic-network/artic-ncov2019/tree/master/primer_schemes/nCoV-2019/V1) / [V2](https://github.com/artic-network/artic-ncov2019/tree/master/primer_schemes/nCoV-2019/V2) [(ref)](https://www.biorxiv.org/content/10.1101/2020.03.10.985150v1.full.pdf) / [V3](https://github.com/artic-network/artic-ncov2019/tree/master/primer_schemes/nCoV-2019/V3)
+
+- [ARTIC on Illumina - Complete Walk-through - Grubaugh/Andersen/Loman labs](https://docs.google.com/document/d/1PilT4w5jHO-ROsE8TL5WBGa0wSCdTHAsNl1LIOYiTgk/mobilebasic)
 
 - Integrated bioinformatics (RAMPART) - documentation below under bioinformatics methods.
 
