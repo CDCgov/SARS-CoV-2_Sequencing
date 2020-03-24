@@ -259,6 +259,8 @@ In this simple proposed schema, GISAID ID or GENBANK ID and COLLECTION DATE are 
 
 
 # **Other Useful References and Resources**<a id="resources" />
+## Useful References
+-[Open-source analytics tools for studying the COVID-19 coronavirus outbreak](https://www.medrxiv.org/content/10.1101/2020.02.25.20027433v2)
 
 ## Slides and Presentations
 - [StaPH-B SARS-CoV-2 Sequencing Seminar (Kevin Libuit, Virginia DCLS - 20200320)](./slides/SC2_Sequencing_and_Analysis_Libuit.pdf) [(Recording)](http://www.staphb.org/resources/staphb-videos/)
