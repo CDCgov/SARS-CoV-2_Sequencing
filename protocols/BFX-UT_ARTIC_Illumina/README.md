@@ -1,4 +1,4 @@
-## Utah DoH ARTIC/Illumina Bioinformatic Workflow (Erin Young/Kelly Oakeson)
+## Utah DoH ARTIC/Illumina Bioinformatic Workflow ([Erin Young](https://github.com/erinyoung)/Kelly Oakeson)
 #### Uses ARTICv2 amplicons, sequenced on Illumina.
 
 ### Bioinformatic Workflow:
