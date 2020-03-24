@@ -270,6 +270,9 @@ In this simple proposed schema, GISAID ID or GENBANK ID and COLLECTION DATE are 
 ## Diagnostic Resources
 - [SARS-CoV-2 PCR Primer List (Grubaugh Lab, Yale SPH)](https://docs.google.com/spreadsheets/d/1kWLdaqWZZYt383EMSf-osyXGdeedrRF6YeBuOBin6Ok/edit#gid=0)
 
+## Additional Protocol Resources
+- [Coronavirus Methods Development Group @ protocols.io](https://www.protocols.io/groups/coronavirus-method-development-community)
+
 ---
 # **Notices and Disclaimers**<a id="notices" />
 ## Public Domain
