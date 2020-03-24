@@ -155,7 +155,7 @@ Example output:
 - [Detection of SARS-CoV-2 Coronavirus using CosmosID](https://www.cosmosid.com/blog-in/2020/3/13/metagenomic-detection-of-sars-cov-2-coronavirus-using-cosmosid)
 
 ### 8. ARTIC on Illumina Bioinformatic Workflow
-Erin Young and Kelly Oakeson at the Utah Department of Health have outlined their bioinformatics approach for SARS-CoV-2 sequences using ARTIC primers, sequenced on Illumina.
+[@ErinYoung](https://github.com/erinyoung) and Kelly Oakeson at the Utah Department of Health have outlined their bioinformatics approach for SARS-CoV-2 sequences using ARTIC primers, sequenced on Illumina.
 - [Bioinformatic protocol](./protocols/BFX-UT_ARTIC_Illumina)
 - [iVar GitHub (Andersen Lab @ Scripps)](https://github.com/andersen-lab/ivar) and [documentation](https://andersen-lab.github.io/ivar/html/)
 
