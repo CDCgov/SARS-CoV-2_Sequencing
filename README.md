@@ -28,7 +28,7 @@ The following sequencing protocols, checklists and job-aids are primarily design
 
 ### a) CDC NCIRD/DVD ONT Sequencing Protocol
 This protocol was developed, tuned and validated by the Viral Discovery laboratory at CDC/NCIRD, where it was used to generate the first 16 SARS-CoV-2 genome sequences from the United States. In practice, it has been used for situations with a relatively low or predictable volume of samples, and is often used in conjunction with Sanger-based tiling to resolve any potential sequencing or assembly issues.
-- Release pending CDC clearance.
+- [Singleplex and Multiplex Protocols for ONT/Illumina](./protocols/CDC-Comprehensive)
 
 ### b) [ARTIC Network nCoV-2019 Sequencing Protocol](https://artic.network/ncov-2019)
 This protocol was developed and released by the fine folks at [ARTIC Network](https://artic.network), and was subsequently refined based on comments from [Itokawa et al](https://www.biorxiv.org/content/10.1101/2020.03.10.985150v1.full.pdf), which identified potential issues and proposed an alternate L18 primer.
@@ -79,7 +79,8 @@ Staff and students from Thomas Friedrich and Dave O'Connor's laboratories at UWM
 ## _**4. SANGER**_
 ### a) CDC NCIRD/DVD Sanger Tiling
 An elegant approach from a more civilized age. The Viral Discovery laboratory team in CDC/NCIRD/DVD has used conventional Sanger sequencing to refine and complement betacoronavirus sequencing on next generation platforms.
-- Release pending CDC clearance.
+- [Singleplex and Multiplex Protocols for Sanger/ONT/Illumina](./protocols/CDC-Comprehensive)
+
 ---
 
 
@@ -337,4 +338,4 @@ published through the [CDC web site](http://www.cdc.gov).
 
 ---
 
-Updated: 20200321 [@dmaccannell](https://www.twitter.com/dmaccannell)
+Updated: 20200325 [@dmaccannell](https://www.twitter.com/dmaccannell)
