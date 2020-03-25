@@ -1,6 +1,6 @@
 # CDC Comprehensive SARS-CoV-2 Sequencing Protocols
 
-This is a comprehnsive set documents, including the protocols used by the DVD Pathogen Discovery lab at CDC for sequencing full genomes of SARS-CoV-2. Details are given for both a single-plex tiling nested RT-PCR that can be used with Sanger, ONT or Illumina sequencing platforms, as well as a multiplex tiling RT-PCR that can be used with either ONT or Illumina sequencing.  
+This is a comprehensive set documents, including the protocols used by the DVD Pathogen Discovery lab at CDC for sequencing full genomes of SARS-CoV-2. Details are given for both a single-plex tiling nested RT-PCR that can be used with Sanger, ONT or Illumina sequencing platforms, as well as a multiplex tiling RT-PCR that can be used with either ONT or Illumina sequencing.  
 
 Additionally, there are support files for primer trimming, pirmer ordering, and consensus sequence generation.
 
@@ -17,4 +17,3 @@ Further support files will come along soon.
     +  Singleplex_Primers.fasta - Primers for nested, singleplex PCR
     +  Singleplex_Primers.tsv
 - scripts/ - Files to help with data processing
-
