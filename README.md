@@ -208,7 +208,7 @@ The National Center for Biotechnology has established a custom landing page for 
 Individual sequences can be submitted to NCBI using the following web form. Create an NCBI user account, and select "SARS-CoV-2 (through BankIt)".
 - [Genbank Submission Portal](https://www.ncbi.nlm.nih.gov/WebSub/)
 
-> NCBI has provided provisional guidance for SARS-CoV-2 sequence submissions to SRA and Genbank. [Detailed instructions are available here](./NCBI-Submission/NCBI-Sequence_submission_for_COVID-19.pdf).
+> NCBI has provided provisional guidance for SARS-CoV-2 sequence submissions to SRA and Genbank. [Detailed instructions are available here](./NCBI-Submission/NCBI-Sequence_submission_for_COVID-19.pdf). Any questions can be directed to NCBI staff [here](mailto:gb-admin@ncbi.nlm.nih.gov).
 
 #### 2. NCBI Batch Submissions
 NCBI has indicated that they plan to develop a specific rapid submission process for SARS-CoV-2 sequences. In the meantime, I believe you should be able to follow the FDA/CFSAN submission protocol below, which includes links to appropriate interfaces and templates (with obvious changes for pathogen and project information).
