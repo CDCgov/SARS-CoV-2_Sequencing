@@ -52,7 +52,7 @@ The Victorian Infectious Diseases Reference Laboratory ([VIDRL](https://www.vidr
 ## _**2. ILLUMINA**_
 ### a) Illumina Nextera Flex Enrichment Sequencing Protocol
 Illumina's Research and Development group has recently developed and validated a custom, research use only (RUO) enrichment sequencing strategy based on their Nextera Flex chemistry.
-- Release imminent.
+- [Application Note](./protocols/ILMN-Nextera_Flex_Enrichment/ngs-enrichment-coronavirus-app-note-FINAL.pdf)
 
 ### b) SARS-CoV-2 Enrichment Sequencing by Spiked Primer MSSPE (NIAID/UCSF/CZBioHub)
 The NIAID laboratory team in Cambodia, in collaboration with UCSF, CZBioHub and IPC, has released a metagenomic sequencing with spiked primer enrichment (MSSPE) protocol for SARS-CoV-2. The protocol is available on [protocols.io](https://protocols.io).
