@@ -17,3 +17,5 @@ Further support files will come along soon.
     +  Singleplex_Primers.fasta - Primers for nested, singleplex PCR
     +  Singleplex_Primers.tsv
 - scripts/ - Files to help with data processing
+
+- [CDC_SARS-CoV-2_Sequencing_200325-1.pdf](./CDC_SARS-CoV-2_Sequencing_200325-1.pdf) - complete documented protocols (March 25, 2020)
