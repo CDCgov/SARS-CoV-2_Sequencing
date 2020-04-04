@@ -95,7 +95,7 @@ A few different sites have resources that are foundational to most bioinformatic
 ### 1. CDC NCIRD/DVD Bioinformatics SOPs
 This section describes the basic bioinformatic workflow that the Viral Discovery laboratory in NCIRD, and other teams at CDC use for quality assessment, assembly and comparison of coronavirus sequences. IRMA, the Iterative Refinement Meta-Assembler developed by CDC's Influenza Division for routine influenza surveillance, has recently been updated to support both ebolavirus and coronavirus assembly tasks. While IRMA isn't used for all SARS-CoV-2 assemblies at CDC, it is a powerful tool for complex or problematic samples and datasets.
 - [IRMA: Iterative Refinement Meta-Assembler](https://wonder.cdc.gov/amd/flu/irma) is available here.
-- CLCbio ([Jonathan Jacobs](mailto:jonathan.jacobs@qiagen.com)) has released workflows for the NCIRD/DVD protocols on [Illumina](./files/clc/CDC.Illumina.NEBNext.SARSCOV2.CLC.Workflow.v0.2.zip) and [Nanopore](./files/clc/CDC.Nanopore.Amplicon.SARSCOV2.Protocol.CLC.Worklow.v0.1.zip)
+- CLCbio ([Jonathan Jacobs](mailto:jonathan.jacobs@qiagen.com)) has released workflows for the NCIRD/DVD protocols on [Illumina](./files/clc/CDC.Illumina.NEBNext.SARSCOV2.CLC.Workflow.v0.2.zip) and [Nanopore](./files/clc/CDC.Nanopore.Amplicon.SARSCOV2.Protocol.CLC.Worklow.v0.2.zip). Older versions available [here](./files/clc/).
 
 ### 2. CLCbio Genomics Workbench
 QIAGEN has released example workflows and tutorials for analyzing Illumina and Oxford Nanopore SARS-CoV-2 sequence data using CLC Genomics Workbench v20.0.3. Note - these workflows are "Research Use Only" (RUO), and may need to modified to fit upstream protocols.  Free temporary licenses for CLC GWB and IPA are available, as well as a series of webinars and tutorials are available to familiarize users with the workflows. [Jonathan Jacobs](mailto:jonathan.jacobs@qiagen.com) and [Leif Schauser](mailto:leif.schauser@qiagen.com) are available for user support and specific questions. 
@@ -103,7 +103,7 @@ QIAGEN has released example workflows and tutorials for analyzing Illumina and O
 - [Temporary licenses for CLC Genomics Workbench and Ingenuity Pathway Analysis](https://go.qiagen.com/QDI-COVID19)
 - [SARS-CoV-2 Analysis Tutorial with Nanopore Data](https://resources.qiagenbioinformatics.com/tutorials/Analysis_of_SARS-CoV-2.pdf) [(Figure)](https://user-images.githubusercontent.com/64888/77170622-ad637500-6a91-11ea-9b2a-f6f3cda4981e.png)
 - [SARS-CoV-2 Workflow and Tutorial Data for Nanopore Data](http://resources.qiagenbioinformatics.com/testdata/SARS-CoV-2_MinION_example_data.zip) [(Figure)](https://user-images.githubusercontent.com/64888/77166238-4098ac80-6a8a-11ea-9b38-534fe956258b.png)
-- [CLC Illumina Workflow v1](./files/clc/SARSCOV2_Illumina.clc.zip)
+- [CLC Illumina Workflow v1](./files/clc/)
 
 ### 3. ARTIC Network Bioinformatics
 The [ARTIC Network](https://artic.network) has released detailed instructions on how to setup and configure the conda environment needed to run their analysis pipelines. These are complete bioinformatic workflows, including runtime visualization, basecalling, mapping/assembly and reporting in a single, portable environment. The [artic-nCoV2019](https://github.com/artic-network/artic-ncov2019) repo includes source code and build instructions for a custom RAMPART configuration.  Additional instructions and documentation are available below.
