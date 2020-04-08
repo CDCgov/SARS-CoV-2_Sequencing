@@ -70,6 +70,10 @@ Probes can be ordered from Twist Bioscience; we have used the protocol for [Twis
 - [Probe set](https://github.com/broadinstitute/catch/tree/master/probe-designs)
 - [Design approach and prior results](https://www.nature.com/articles/s41587-018-0006-x)
 
+### e) ARTIC on Illumina
+A number of different laboratories have implemented derivatives of the ARTIC amplicon scheme on Illumina.
+- [Protocol from the Grubaugh lab at Yale (gdoc)](https://docs.google.com/document/d/1PilT4w5jHO-ROsE8TL5WBGa0wSCdTHAsNl1LIOYiTgk/edit)
+
 ## _**3. TANDEM**_
 ### a) SARS-CoV-2 Parallel Sequencing by Illumina and ONT (UWMadison ZEST)
 Staff and students from Thomas Friedrich and Dave O'Connor's laboratories at UWMadison have put together a tandem sequencing protocol and bioinformatic workflow that incorporates Illumina and ONT sequence. While this may be overkill for routine or high-throughput public health purposes, the necessary protocols, scripts and documentation are available here.
