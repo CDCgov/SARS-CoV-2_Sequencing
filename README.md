@@ -189,7 +189,7 @@ SanitizeMe is a set of scripts and an X11 GUI for removing human host sequences 
 # **Submitting to Public Sequence Repositories**<a id="submitting" />
 
 ## WHO Code of Conduct: Sequence Sharing During Outbreaks
-The draft "WHO code of conduct for open and timely sharing of pathogen genetic sequence data during outbreaks of infectious disease" lays out an important and sensible set of principles for sharing pathogen genetic sequence data during outbreaks of international importance.  The text is available [here](https://www.who.int/blueprint/what/norms-standards/GSDDraftCodeConduct_forpublicconsultation-v1.pdf?ua=1).
+The draft *WHO code of conduct for open and timely sharing of pathogen genetic sequence data during outbreaks of infectious disease* lays out an important and sensible set of principles for sharing pathogen genetic sequence data during outbreaks of international importance.  The text is available [here](https://www.who.int/blueprint/what/norms-standards/GSDDraftCodeConduct_forpublicconsultation-v1.pdf?ua=1).
 
 ## Sequence naming conventions for public repositories
 We are proposing simplified naming conventions for sequences submitted to GISAID and NCBI from US public health and clinical laboratories.
@@ -352,4 +352,4 @@ published through the [CDC web site](http://www.cdc.gov).
 
 ---
 
-Updated: 20200331 [@dmaccannell](https://www.twitter.com/dmaccannell)
+Updated: 20200414 [@dmaccannell](https://www.twitter.com/dmaccannell)
