@@ -95,6 +95,7 @@ A few different sites have resources that are foundational to most bioinformatic
 - [GISAID](https://www.gisaid.org) was put into place to provide a framework for open sharing of influenza sequence data, while maintaining strict governance over the use of data and attribution to sequence submitters.
 - The original SARS-CoV-2 reference sequence, "Wuhan-Hu-1", submitted by **Zhang Yongzhen and colleagues** is mirrored from NCBI in the `sequences` [folder](./sequences) here.  In that folder, you will also find a dated set of public genomes in that folder, downloaded from NCBI on a semi-regular basis. NB: These are consensus sequences manually pulled from [NCBI](https://www.ncbi.nlm.nih.gov) Genbank. More complete sets of sequences are available at the [GISAID](https://www.gisaid.org) public access repository, which requires account registration and adherence to a strict code of conduct.
 - [Genexa](https://genexa.ch/sars2-bioinformatics-resources/) has put together a page with precomputed kmer sets, indicies, reference sequences, and a number of other useful resources for bioinformatic analysis of SARS-CoV-2 NGS data.
+- [Illumina](https://www.illumina.com/informatics/specialized-bioinformatics-applications/coronavirus-software.html) has just released a SARS-CoV-2 Software Toolkit, including premade RT-PCR and sequencing workflows for ClarityLIMS, FPGA (DRAGEN)-powered bioinformatics, and direct submission to GISAID.
 
 ### 1. CDC NCIRD/DVD Bioinformatics SOPs
 This section describes the basic bioinformatic workflow that the Viral Discovery laboratory in NCIRD, and other teams at CDC use for quality assessment, assembly and comparison of coronavirus sequences. IRMA, the Iterative Refinement Meta-Assembler developed by CDC's Influenza Division for routine influenza surveillance, has recently been updated to support both ebolavirus and coronavirus assembly tasks. While IRMA isn't used for all SARS-CoV-2 assemblies at CDC, it is a powerful tool for complex or problematic samples and datasets.
@@ -278,6 +279,7 @@ In this simple proposed schema, GISAID ID or GENBANK ID and COLLECTION DATE are 
 # **Other Useful References and Resources**<a id="resources" />
 ## Useful References
 - [Open-source analytics tools for studying the COVID-19 coronavirus outbreak](https://www.medrxiv.org/content/10.1101/2020.02.25.20027433v2)
+- [Global Initiative on Open-source Genomics for SARS-CoV-2](https://giogs.genomics.cn/)
 
 ## Slides and Presentations
 - [StaPH-B SARS-CoV-2 Sequencing Seminar (Kevin Libuit, Virginia DCLS - 20200320)](./slides/SC2_Sequencing_and_Analysis_Libuit.pdf) [(Recording)](http://www.staphb.org/resources/staphb-videos/)
@@ -352,4 +354,4 @@ published through the [CDC web site](http://www.cdc.gov).
 
 ---
 
-Updated: 20200414 [@dmaccannell](https://www.twitter.com/dmaccannell)
+Updated: 20200417 [@dmaccannell](https://www.twitter.com/dmaccannell)
