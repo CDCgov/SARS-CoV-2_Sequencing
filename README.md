@@ -174,6 +174,10 @@ These repositories provide best practise workflows for genomic and chemoinformat
 
 The chemoinformatics workflows can be used to conduct fragment screening using molecular docking.  *This has [already been done for the SARS-COV-2 main protease (MPro)](https://covid19.galaxyproject.org/cheminformatics/histories/)* by the [Diamond Light Source's XChem team](https://www.diamond.ac.uk/Instruments/Mx/Fragment-Screening.html), [InformaticsMatters](http://informaticsmatters.com/) and the [European Galaxy Team](https://galaxyproject.eu/).  The genomics workflows use entirely open source software and open access platforms to perform (1) [data pre-processing](https://covid19.galaxyproject.org/genomics/1-PreProcessing), (2) [genome assembly](https://covid19.galaxyproject.org/genomics/2-Assembly), (3) [estimation of MRCA timing](https://covid19.galaxyproject.org/genomics/3-MRCA), (4) [analysis of intrahost variation](https://covid19.galaxyproject.org/genomics/4-Variation), (5) [analysis of substitutions within the *S* gene](https://covid19.galaxyproject.org/genomics/5-S-analysis), and (6) [analysis of recombination and selection](https://covid19.galaxyproject.org/genomics/6-RecombinationSelection). 
 
+### 10. Nanopore Direct RNA Analysis Using MasterOfPores
+The [Epitranscriptomics and RNA Dynamics Lab (Novoa)](https://www.crg.eu/en/programmes-groups/novoa-lab) and the Bioinformatics Core Facility ([BioCore](https://biocore.crg.eu/wiki/Main_Page) at the [CRG](https://www.crg.eu/) have released a set of tools and resources to support the analysis of nanopore direct RNA sequencing data.
+- [Uniform analysis of coronavirus and SARS-COV-2 nanopore direct RNA sequencing datasets using MasterOfPores](https://biocorecrg.github.io/covid/)
+
 ---
 
 # **Quality Management**<a id="quality" />
@@ -280,6 +284,9 @@ In this simple proposed schema, GISAID ID or GENBANK ID and COLLECTION DATE are 
 ## Useful References
 - [Open-source analytics tools for studying the COVID-19 coronavirus outbreak](https://www.medrxiv.org/content/10.1101/2020.02.25.20027433v2)
 - [Global Initiative on Open-source Genomics for SARS-CoV-2](https://giogs.genomics.cn/)
+
+## COVID-19 Host Genomics
+- [COVID-19 Host Genetics Initiative](https://www.covid19hg.org)
 
 ## Slides and Presentations
 - [StaPH-B SARS-CoV-2 Sequencing Seminar (Kevin Libuit, Virginia DCLS - 20200320)](./slides/SC2_Sequencing_and_Analysis_Libuit.pdf) [(Recording)](http://www.staphb.org/resources/staphb-videos/)
