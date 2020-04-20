@@ -183,7 +183,11 @@ The [Epitranscriptomics and RNA Dynamics Lab (Novoa)](https://www.crg.eu/en/prog
 # **Quality Management**<a id="quality" />
 This section will describe best practices for laboratory and bioinformatic quality assurance, including preflight checks for sequence and metadata submission to public repositories.
 
-### 1. Host Sequence Removal
+### 1. FDA ARGOS SARS-CoV-2 Reference Sequence Data and Materials
+The FDA, in collaboration with CDC, BEIR, UMaryland IGS, and others, have recently put together reference sequences, and materials for NGS sequencing and assay development.  These resources will be invaluable to many laboratories implementing NGS quality management programs. 
+- [FDA ARGOS SARS-CoV-2 Resources](https://www.fda.gov/medical-devices/database-reference-grade-microbial-sequences-fda-argos/fda-argos-sars-cov-2-reference-grade-sequence-data)
+
+### 2. Host Sequence Removal
 SanitizeMe is a set of scripts and an X11 GUI for removing human host sequences from metagenomic data before SRA submission. Software and documentation are available [here](https://github.com/CDCgov/SanitizeMe).
 
 - **to do**: I'd love for people to help describe their actual QC processes.
