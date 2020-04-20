@@ -293,6 +293,7 @@ In this simple proposed schema, GISAID ID or GENBANK ID and COLLECTION DATE are 
 
 ## Visualization and Phylogenetics
 - [Nextstrain hCoV-19](https://www.nextstrain.org/ncov)
+- [UCSC SARS-CoV-2 browser](https://genome.ucsc.edu/cgi-bin/hgTracks?db=wuhCor1)
 - [CNCB 2019 Novel Coronavirus Resource (2019nCoVR)](https://bigd.big.ac.cn/ncov?lang=en)
 
 ## Diagnostic Resources
