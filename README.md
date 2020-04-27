@@ -221,10 +221,10 @@ We are proposing simplified naming conventions for sequences submitted to GISAID
 
 **COUNTRY** | /  **STATE-LAB-SAMPLE**  / | **YEAR**
 --- | --- | ---
-`USA` | ``/ CA-CDPH-S1 /`` | `2020`
-`USA` | ``/ UT-01 /`` | `2020`
-`USA` | ``/ AZ-1045 /`` | `2020`
-`USA` | ``/ WA-UW-316 /`` | `2020`
+`USA` | ``/ CA-CDPH-S001 /`` | `2020`
+`USA` | ``/ UT-UPHL-0601 /`` | `2020`
+`USA` | ``/ AZ-TGEN-N1045 /`` | `2020`
+`USA` | ``/ ID-UW-0316 /`` | `2020`
 
 > The proposed convention is as follows: 1) country (USA). 2) The middle sample identification cell should include two-letter state (eg: CA), an abbreviated identifier for the submitting lab (eg: CDPH), as desired, and a unique sequence identifier (eg:01, S01, 454, ...), with all three terms separated by hyphens.
 
