@@ -84,7 +84,7 @@ Staff and students from Thomas Friedrich and Dave O'Connor's laboratories at UWM
 ### a) CDC NCIRD/DVD Sanger Tiling
 An elegant approach from a more civilized age. The Viral Discovery laboratory team in CDC/NCIRD/DVD has used conventional Sanger sequencing to refine and complement betacoronavirus sequencing on next generation platforms.
 - [Singleplex and Multiplex Protocols for Sanger/ONT/Illumina](./protocols/CDC-Comprehensive)
-
+- [Preprint describing CDC protocols](https://www.biorxiv.org/content/10.1101/2020.04.22.055897v1)
 ---
 
 
@@ -99,6 +99,7 @@ A few different sites have resources that are foundational to most bioinformatic
 
 ### 1. CDC NCIRD/DVD Bioinformatics SOPs
 This section describes the basic bioinformatic workflow that the Viral Discovery laboratory in NCIRD, and other teams at CDC use for quality assessment, assembly and comparison of coronavirus sequences. IRMA, the Iterative Refinement Meta-Assembler developed by CDC's Influenza Division for routine influenza surveillance, has recently been updated to support both ebolavirus and coronavirus assembly tasks. While IRMA isn't used for all SARS-CoV-2 assemblies at CDC, it is a powerful tool for complex or problematic samples and datasets.
+- [Preprint describing](https://www.biorxiv.org/content/10.1101/2020.04.22.055897v1)
 - [IRMA: Iterative Refinement Meta-Assembler](https://wonder.cdc.gov/amd/flu/irma) is available here.
 - CLCbio ([Jonathan Jacobs](mailto:jonathan.jacobs@qiagen.com)) has released workflows for the NCIRD/DVD protocols on [Illumina](./files/clc/CDC.Illumina.NEBNext.SARSCOV2.CLC.Workflow.v0.2.zip) and [Nanopore](./files/clc/CDC.Nanopore.Amplicon.SARSCOV2.Protocol.CLC.Worklow.v0.2.zip). Older versions available [here](./files/clc/).
 
