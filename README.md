@@ -73,6 +73,7 @@ Probes can be ordered from Twist Bioscience; we have used the protocol for [Twis
 ### e) ARTIC on Illumina
 A number of different laboratories have implemented derivatives of the ARTIC amplicon scheme on Illumina.
 - [Protocol from the Grubaugh lab at Yale (gdoc)](https://docs.google.com/document/d/1PilT4w5jHO-ROsE8TL5WBGa0wSCdTHAsNl1LIOYiTgk/edit)
+- [Virgina DCLS has a detailed ARTIC-on-Illumina protocol, including worksheets, flowcharts and helpful hints.](./protocols/ILMN-VA_DCLS-ARTIC_Illumina)
 
 ## _**3. PACIFIC BIOSCIENCES**_
 PacBio maintains a [COVID-19 landing page](https://www.pacb.com/research-focus/microbiology/COVID-19-sequencing-tools-and-resources/) with updated resources on existing protocols and [SARS-CoV2-2 assay development recommendations](https://www.pacb.com/wp-content/uploads/Customer-Collaboration-SARS-CoV-2-Virus-Sample-Preparation-Suggestions-for-PacBio-SMRT-Sequencing.pdf).
