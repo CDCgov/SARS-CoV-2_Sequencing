@@ -263,7 +263,7 @@ The GISAID EpiCoV Public Access repository is based on existing submission proce
 
 METADATA FIELDS (GISAID) | GUIDANCE
 --- | ---
-`Virus name`| USA/FL-103/2020 (see above)
+`Virus name`| USA/FL-UF-103/2020 (see above)
 `Accession ID` |
 `Type` | betacoronavirus
 `Collection date`| YYYY-MM-DD
