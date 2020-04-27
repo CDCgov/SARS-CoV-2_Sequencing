@@ -74,17 +74,32 @@ Probes can be ordered from Twist Bioscience; we have used the protocol for [Twis
 A number of different laboratories have implemented derivatives of the ARTIC amplicon scheme on Illumina.
 - [Protocol from the Grubaugh lab at Yale (gdoc)](https://docs.google.com/document/d/1PilT4w5jHO-ROsE8TL5WBGa0wSCdTHAsNl1LIOYiTgk/edit)
 
-## _**3. TANDEM**_
+## _**3. PACIFIC BIOSCIENCES**_
+PacBio maintains a [COVID-19 landing page](https://www.pacb.com/research-focus/microbiology/COVID-19-sequencing-tools-and-resources/) with updated resources on existing protocols and [SARS-CoV2-2 assay development recommendations](https://www.pacb.com/wp-content/uploads/Customer-Collaboration-SARS-CoV-2-Virus-Sample-Preparation-Suggestions-for-PacBio-SMRT-Sequencing.pdf).
+
+### Barcoding options
+* [Barcoding with Barcoded Overhang Adapters](https://www.pacb.com/wp-content/uploads/Procedure-Checklist-Preparing-SMRTbell-Libraries-using-PacBio-Barcoded-Overhang-Adapters-for-Multiplexing-Amplicons.pdf)
+* [Barcoding with M13 primers tailed with PacBio Barcodes](https://www.pacb.com/wp-content/uploads/Procedure-Checklist-Preparing-SMRTbell-Libraries-using-PacBio-Barcoded-M13-Primers-for-Multiplex-SMRT-Sequencing.pdf)
+
+a) [Sinai 1.5kb and 2kb tiled amplicon protocol](https://www.medrxiv.org/content/10.1101/2020.04.08.20056929v1.full.pdf) and [PacBio barcoding options](https://www.pacb.com/wp-content/uploads/Sinai-SARS-CoV-2-Primers-with-PacBio-Barcodng-Options.xlsx)
+b) [Eden 2.5kb tiled amplicon protocol](https://www.pacb.com/wp-content/uploads/Customer-Collaboration-PacBio-Compatible-Eden-Protocol-for-SARS-CoV-2-Sequencing.pdf) and [PacBio barcoding options](https://www.pacb.com/wp-content/uploads/Eden-SARS-CoV-2-Primers-with-PacBio-Barcoding-Options.xlsx)
+c) [CDC 500bp and 900bp tiled amplicon protocol](https://www.pacb.com/wp-content/uploads/Customer-Collaboration-PacBio-Compatible-CDC-Protocols-for-SARS-CoV-2-Sequencing.pdf) and [PacBio barcoding options](https://www.pacb.com/wp-content/uploads/CDC-SARS-CoV-2-Primers-with-PacBio-Barcoding-Options.xlsx)
+
+Files are mirrored [here](../protocols/).
+
+## _**4. TANDEM**_
+
 ### a) SARS-CoV-2 Parallel Sequencing by Illumina and ONT (UWMadison ZEST)
 Staff and students from Thomas Friedrich and Dave O'Connor's laboratories at UWMadison have put together a tandem sequencing protocol and bioinformatic workflow that incorporates Illumina and ONT sequence. While this may be overkill for routine or high-throughput public health purposes, the necessary protocols, scripts and documentation are available here.
 - [Protocol](https://openresearch.labkey.com/wiki/ZEST/Ncov/page.view?name=SARS0CoV-2%20Deep%20Sequencing)
 - [Github resources](https://github.com/katarinabraun/SARS-CoV-2_sequencing)
 
-## _**4. SANGER**_
+## _**5. SANGER**_
 ### a) CDC NCIRD/DVD Sanger Tiling
 An elegant approach from a more civilized age. The Viral Discovery laboratory team in CDC/NCIRD/DVD has used conventional Sanger sequencing to refine and complement betacoronavirus sequencing on next generation platforms.
 - [Singleplex and Multiplex Protocols for Sanger/ONT/Illumina](./protocols/CDC-Comprehensive)
 - [Preprint describing CDC protocols](https://www.biorxiv.org/content/10.1101/2020.04.22.055897v1)
+
 ---
 
 
