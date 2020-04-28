@@ -384,4 +384,4 @@ published through the [CDC web site](http://www.cdc.gov).
 
 ---
 
-Updated: 20200417 [@dmaccannell](https://www.twitter.com/dmaccannell)
+Updated: 20200428 [@dmaccannell](https://www.twitter.com/dmaccannell)
