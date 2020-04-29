@@ -126,6 +126,7 @@ QIAGEN has released example workflows and tutorials for analyzing Illumina and O
 - [SARS-CoV-2 Analysis Tutorial with Nanopore Data](https://resources.qiagenbioinformatics.com/tutorials/Analysis_of_SARS-CoV-2.pdf) [(Figure)](https://user-images.githubusercontent.com/64888/77170622-ad637500-6a91-11ea-9b2a-f6f3cda4981e.png)
 - [SARS-CoV-2 Workflow and Tutorial Data for Nanopore Data](http://resources.qiagenbioinformatics.com/testdata/SARS-CoV-2_MinION_example_data.zip) [(Figure)](https://user-images.githubusercontent.com/64888/77166238-4098ac80-6a8a-11ea-9b38-534fe956258b.png)
 - [CLC Illumina Workflow v1](./files/clc/)
+- [Additional CLC Genomics Workbench Workflows developed by Jonathan Jacobs including the QIAseq SARS-CoV-2 panel, Ion AmpliSeq SARS-COV-2 panel, and ARTICv3 Nanopore & llumina panels](https://github.com/jonathanjacobs/CLC-Genomics/tree/master/CLC-SARSCOV2-Workflows)
 
 ### 3. ARTIC Network Bioinformatics
 The [ARTIC Network](https://artic.network) has released detailed instructions on how to setup and configure the conda environment needed to run their analysis pipelines. These are complete bioinformatic workflows, including runtime visualization, basecalling, mapping/assembly and reporting in a single, portable environment. The [artic-nCoV2019](https://github.com/artic-network/artic-ncov2019) repo includes source code and build instructions for a custom RAMPART configuration.  Additional instructions and documentation are available below.
