@@ -306,6 +306,9 @@ In this simple proposed schema, GISAID ID or GENBANK ID and COLLECTION DATE are 
 
 
 # **Other Useful References and Resources**<a id="resources" />
+## SARS-CoV-2 Genomics Consortia
+- [UK COVID-19 Genomics Consortium (COG-UK)](https://cogconsortium.uk)
+
 ## Useful References
 - [Open-source analytics tools for studying the COVID-19 coronavirus outbreak](https://www.medrxiv.org/content/10.1101/2020.02.25.20027433v2)
 - [Global Initiative on Open-source Genomics for SARS-CoV-2](https://giogs.genomics.cn/)
