@@ -88,14 +88,18 @@ c) [CDC 500bp and 900bp tiled amplicon protocol](https://www.pacb.com/wp-content
 
 Files are mirrored [here](../protocols/).
 
-## _**4. TANDEM**_
+## _**4. IONTORRENT**_
+A number of laboratories have reported success with the Ion AmpliSeq SARS-CoV-2 Research panel for the IonTorrent S5 platform. Amplicon strategies, such as ARTIC, should also work for the S5, and we'd welcome the addition of any working protocols and other resources to this section.
+- [Ion AmpliSeq SARS-CoV-2 Research Panel for GeneStudio S5](https://assets.thermofisher.com/TFS-Assets/LSG/manuals/MAN0019277_Ion_AmpliSeq_SARS-CoV-2_Research_Panel_GeneStudio_QR.pdf)
+
+## _**5. TANDEM**_
 
 ### a) SARS-CoV-2 Parallel Sequencing by Illumina and ONT (UWMadison ZEST)
 Staff and students from Thomas Friedrich and Dave O'Connor's laboratories at UWMadison have put together a tandem sequencing protocol and bioinformatic workflow that incorporates Illumina and ONT sequence. While this may be overkill for routine or high-throughput public health purposes, the necessary protocols, scripts and documentation are available here.
 - [Protocol](https://openresearch.labkey.com/wiki/ZEST/Ncov/page.view?name=SARS0CoV-2%20Deep%20Sequencing)
 - [Github resources](https://github.com/katarinabraun/SARS-CoV-2_sequencing)
 
-## _**5. SANGER**_
+## _**6. SANGER**_
 ### a) CDC NCIRD/DVD Sanger Tiling
 An elegant approach from a more civilized age. The Viral Discovery laboratory team in CDC/NCIRD/DVD has used conventional Sanger sequencing to refine and complement betacoronavirus sequencing on next generation platforms.
 - [Singleplex and Multiplex Protocols for Sanger/ONT/Illumina](./protocols/CDC-Comprehensive)
