@@ -74,6 +74,8 @@ Probes can be ordered from Twist Bioscience; we have used the protocol for [Twis
 A number of different laboratories have implemented derivatives of the ARTIC amplicon scheme on Illumina.
 - [Protocol from the Grubaugh lab at Yale (gdoc)](https://docs.google.com/document/d/1PilT4w5jHO-ROsE8TL5WBGa0wSCdTHAsNl1LIOYiTgk/edit)
 - [Virgina DCLS has a detailed ARTIC-on-Illumina protocol, including worksheets, flowcharts and helpful hints.](./protocols/ILMN-VA_DCLS-ARTIC_Illumina)
+- [Freed and Silander developed a modified ARTIC protocol with 1200bp inserts](https://www.protocols.io/view/ncov-2019-sequencing-protocol-rapid-barcoding-1200-bfwnjpde)([primers](https://docs.google.com/spreadsheets/d/1M5I_C56ZC8_2Ycgm9EFieVlVNqxsP7dXAnGoBZy3nDo/edit#gid=755704891))
+- [Swift BioSciences offers an alternative amplicon strategy](https://swiftbiosci.com/wp-content/uploads/2020/04/TEC-006-SARS-CoV-2-Tech-Note-Rev-1-1.pdf)
 
 ## _**3. PACIFIC BIOSCIENCES**_
 PacBio maintains a [COVID-19 landing page](https://www.pacb.com/research-focus/microbiology/COVID-19-sequencing-tools-and-resources/) with updated resources on existing protocols and [SARS-CoV2-2 assay development recommendations](https://www.pacb.com/wp-content/uploads/Customer-Collaboration-SARS-CoV-2-Virus-Sample-Preparation-Suggestions-for-PacBio-SMRT-Sequencing.pdf).
@@ -391,4 +393,4 @@ published through the [CDC web site](http://www.cdc.gov).
 
 ---
 
-Updated: 20200428 [@dmaccannell](https://www.twitter.com/dmaccannell)
+Updated: 20200507 [@dmaccannell](https://www.twitter.com/dmaccannell)
