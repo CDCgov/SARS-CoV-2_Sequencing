@@ -77,6 +77,8 @@ A number of different laboratories have implemented derivatives of the ARTIC amp
 - [Freed and Silander developed a modified ARTIC protocol with 1200bp inserts](https://www.protocols.io/view/ncov-2019-sequencing-protocol-rapid-barcoding-1200-bfwnjpde)([primers](https://docs.google.com/spreadsheets/d/1M5I_C56ZC8_2Ycgm9EFieVlVNqxsP7dXAnGoBZy3nDo/edit#gid=755704891))
 - [Swift BioSciences offers an alternative amplicon strategy](https://swiftbiosci.com/wp-content/uploads/2020/04/TEC-006-SARS-CoV-2-Tech-Note-Rev-1-1.pdf)
 
+#### e
+
 ## _**3. PACIFIC BIOSCIENCES**_
 PacBio maintains a [COVID-19 landing page](https://www.pacb.com/research-focus/microbiology/COVID-19-sequencing-tools-and-resources/) with updated resources on existing protocols and [SARS-CoV2-2 assay development recommendations](https://www.pacb.com/wp-content/uploads/Customer-Collaboration-SARS-CoV-2-Virus-Sample-Preparation-Suggestions-for-PacBio-SMRT-Sequencing.pdf).
 
