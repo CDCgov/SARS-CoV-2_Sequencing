@@ -204,6 +204,9 @@ The chemoinformatics workflows can be used to conduct fragment screening using m
 The [Epitranscriptomics and RNA Dynamics Lab (Novoa)](https://www.crg.eu/en/programmes-groups/novoa-lab) and the Bioinformatics Core Facility ([BioCore](https://biocore.crg.eu/wiki/Main_Page) at the [CRG](https://www.crg.eu/) have released a set of tools and resources to support the analysis of nanopore direct RNA sequencing data.
 - [Uniform analysis of coronavirus and SARS-COV-2 nanopore direct RNA sequencing datasets using MasterOfPores](https://biocorecrg.github.io/covid/)
 
+### 11. BioNumerics SARS-CoV-2 Plugin
+Applied Maths/bioMerieux have released a plugin for BioNumerics that facilitates the processing and analysis of SARS-CoV-2 genomic sequences, whether downloaded from a public data repository or generated locally. More info on the tool and a tutorial can be found [here](https://www.applied-maths.com/applications/sarscov2-genome-screening).
+
 ---
 
 # **Quality Management**<a id="quality" />
