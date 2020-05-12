@@ -74,10 +74,13 @@ Probes can be ordered from Twist Bioscience; we have used the protocol for [Twis
 A number of different laboratories have implemented derivatives of the ARTIC amplicon scheme on Illumina.
 - [Protocol from the Grubaugh lab at Yale (gdoc)](https://docs.google.com/document/d/1PilT4w5jHO-ROsE8TL5WBGa0wSCdTHAsNl1LIOYiTgk/edit)
 - [Virgina DCLS has a detailed ARTIC-on-Illumina protocol, including worksheets, flowcharts and helpful hints.](./protocols/ILMN-VA_DCLS-ARTIC_Illumina)
-- [Freed and Silander developed a modified ARTIC protocol with 1200bp inserts](https://www.protocols.io/view/ncov-2019-sequencing-protocol-rapid-barcoding-1200-bfwnjpde)([primers](https://docs.google.com/spreadsheets/d/1M5I_C56ZC8_2Ycgm9EFieVlVNqxsP7dXAnGoBZy3nDo/edit#gid=755704891))
-- [Swift BioSciences offers an alternative amplicon strategy](https://swiftbiosci.com/wp-content/uploads/2020/04/TEC-006-SARS-CoV-2-Tech-Note-Rev-1-1.pdf)
+- Joel Sevinsky and the intrepid team at [StaPH-B](https://www.staphb.org) have adapted ARTICv3 for Illumina for public health laboratories that are already configured for PulseNet sequencing.
+      - [SARS-CoV-2 Sequencing on Illumina MiSeq using ARTIC Protocol: Part 1 - Tiling PCR](https://www.protocols.io/view/sars-cov-2-sequencing-on-illumina-miseq-using-arti-bfefjjbn)
+      - [SARS-CoV-2 Sequencing on Illumina MiSeq using ARTIC Protocol: Part 2 - Illumina DNA Flex](https://www.protocols.io/view/sars-cov-2-sequencing-on-illumina-miseq-using-arti-bffyjjpw)
 
-#### e
+#### Modifications, Improvements and Derivatives of ARTIC
+- [Freed and Silander developed a modified ARTIC protocol with 1200bp inserts](https://www.protocols.io/view/ncov-2019-sequencing-protocol-rapid-barcoding-1200-bfwnjpde)([primers](https://docs.google.com/spreadsheets/d/1M5I_C56ZC8_2Ycgm9EFieVlVNqxsP7dXAnGoBZy3nDo/edit#gid=755704891))
+- [Gohl and collagues at UMN describe an elegant tailed amplicon approach that enables ARTIC without the need for ligation or tagmentation steps](https://www.biorxiv.org/content/10.1101/2020.05.11.088724v1)
 
 ## _**3. PACIFIC BIOSCIENCES**_
 PacBio maintains a [COVID-19 landing page](https://www.pacb.com/research-focus/microbiology/COVID-19-sequencing-tools-and-resources/) with updated resources on existing protocols and [SARS-CoV2-2 assay development recommendations](https://www.pacb.com/wp-content/uploads/Customer-Collaboration-SARS-CoV-2-Virus-Sample-Preparation-Suggestions-for-PacBio-SMRT-Sequencing.pdf).
