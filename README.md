@@ -76,7 +76,7 @@ A number of different laboratories have implemented derivatives of the ARTIC amp
 - [Virgina DCLS has a detailed ARTIC-on-Illumina protocol, including worksheets, flowcharts and helpful hints.](./protocols/ILMN-VA_DCLS-ARTIC_Illumina)
 - Joel Sevinsky and the intrepid team at [StaPH-B](https://www.staphb.org) have adapted ARTICv3 for Illumina for public health laboratories that are already configured for PulseNet sequencing.
       - [SARS-CoV-2 Sequencing on Illumina MiSeq using ARTIC Protocol: Part 1 - Tiling PCR](https://www.protocols.io/view/sars-cov-2-sequencing-on-illumina-miseq-using-arti-bfefjjbn)
-      - [SARS-CoV-2 Sequencing on Illumina MiSeq using ARTIC Protocol: Part 2 - Illumina DNA Flex](https://www.protocols.io/view/sars-cov-2-sequencing-on-illumina-miseq-using-arti-bffyjjpw)
+      - [SARS-CoV-2 Sequencing on Illumina MiSeq using ARTIC Protocol: Part 2 - Illumina DNA Flex](https://www.protocols.io/view/sars-cov-2-sequencing-on-illumina-miseq-using-arti-bffyjjpw) 
 
 #### Modifications, Improvements and Derivatives of ARTIC
 - [Freed and Silander developed a modified ARTIC protocol with 1200bp inserts](https://www.protocols.io/view/ncov-2019-sequencing-protocol-rapid-barcoding-1200-bfwnjpde)([primers](https://docs.google.com/spreadsheets/d/1M5I_C56ZC8_2Ycgm9EFieVlVNqxsP7dXAnGoBZy3nDo/edit#gid=755704891))
