@@ -401,4 +401,4 @@ published through the [CDC web site](http://www.cdc.gov).
 
 ---
 
-Updated: 20200507 [@dmaccannell](https://www.twitter.com/dmaccannell)
+Updated: 20200512 [@dmaccannell](https://www.twitter.com/dmaccannell)
