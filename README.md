@@ -150,7 +150,14 @@ The [ARTIC Network](https://artic.network) has released detailed instructions on
 
 - [Nextflow ARTIC nCoV Workflows - Connor Lab Cardiff/PHW](https://github.com/connor-lab/ncov2019-artic-nf)
 
-### 4. One Codex
+### 5. BugSeq
+[BugSeq](https://bugseq.com) has added support for detailed SARS-CoV-2 analysis from nanopore sequencing data. This analysis ([example](https://bugseq.com/demo/sars-cov-2)) will be conducted automatically by detection of SARS-CoV-2 in sequencing data and tailored for your experimental design (metagenomic and ARTIC v1,v2 and v3 amplicons supported). BugSeq is making analysis of SARS-CoV-2 samples available **free of charge** for any user publishing their data in a pre-print or the peer-reviewed literature. Additional information and documentation are available below:
+
+- [Example report](https://bugseq.com/demo/sars-cov-2)
+
+- [Additional documentation and bioinformatics details](https://docs.bugseq.com/tailored-experiment-analyses/covid-19-sars-cov-2)
+
+### 5. One Codex
 [One Codex](https://www.onecodex.com) has added support to its analysis platform for analyzing SARS-CoV-2 samples. This analysis ([example](https://app.onecodex.com/report/public/2b15c38901224e5f)) will be automatically run on any samples with SARS-CoV-2 reads. One Codex is making analysis of SARS-CoV-2 samples available **free of charge** for all users sharing their results and data publicly. Additional information and documentation are available below:
 
 - [Blog post introducing COVID-19 analysis support](https://www.onecodex.com/blog/2020/03/16/covid-19-sequencing-analysis/)
@@ -159,7 +166,7 @@ The [ARTIC Network](https://artic.network) has released detailed instructions on
 
 - [Additional documentation and bioinformatics details](https://docs.onecodex.com/en/articles/3793936-covid-19-sequencing-analysis)
 
-### 5. Broad viral-ngs tools
+### 6. Broad viral-ngs tools
 The Broad Institute's viral genomics analysis tools can assist with assembly, metagenomics, QC, and NCBI submission prep, for Illumina-generated data on viral genomes. It is available in the following forms:
 
 - The Terra cloud platform ([workspace](https://app.terra.bio/#workspaces/pathogen-genomic-surveillance/COVID-19) including example SARS-CoV-2 data from SRA, [blog post](https://support.terra.bio/hc/en-us/articles/360040613432), [getting started](https://support.terra.bio/hc/en-us/articles/360041068771)) 
@@ -175,7 +182,7 @@ The tools include:
 - multiple alignment of genomes w/MAFFT
 - Illumina basecalling & demux, metrics, fastQC, ERCC spike-in counter
 
-### 6. Genome Detective Virus tool
+### 7. Genome Detective Virus tool
 
 Genome Detective virus tool does QC, assembly and identification of SARS-CoV-2 from a wide range of sequencing protocols (metagenomic or targeted sequencing).
 
@@ -185,16 +192,16 @@ Example output:
 - [Minion](https://www.genomedetective.com/app/typingtool/virus/job/example-SARSCoV2-nanopore)
 - [Illumina](https://www.genomedetective.com/app/typingtool/virus/job/example-SARSCoV2-illumina)
 
-### 7. CosmosID
+### 8. CosmosID
 [CosmosID](https://www.cosmosid.com) has recently posted a blog entry on their site, describing how to use their web-based analysis platform to analyze SARS-CoV-2 data.
 - [Detection of SARS-CoV-2 Coronavirus using CosmosID](https://www.cosmosid.com/blog-in/2020/3/13/metagenomic-detection-of-sars-cov-2-coronavirus-using-cosmosid)
 
-### 8. ARTIC on Illumina Bioinformatic Workflow
+### 9. ARTIC on Illumina Bioinformatic Workflow
 [@ErinYoung](https://github.com/erinyoung) and Kelly Oakeson at the Utah Department of Health have outlined their bioinformatics approach for SARS-CoV-2 sequences using ARTIC primers, sequenced on Illumina.
 - [Bioinformatic protocol](./protocols/BFX-UT_ARTIC_Illumina)
 - [iVar GitHub (Andersen Lab @ Scripps)](https://github.com/andersen-lab/ivar) and [documentation](https://andersen-lab.github.io/ivar/html/)
 
-### 9. Galaxy
+### 10. Galaxy
 [Workflows](https://covid19.galaxyproject.org/) are available for the [Galaxy Platform](https://galaxyproject.org/)
 - [Cheoinformatics: Virtual screening of the SARS-CoV-2 main protease](https://covid19.galaxyproject.org/cheminformatics/)
 - [Genomics: Analysis of COVID-19 data using Galaxy, BioConda and public research infrastructure](https://covid19.galaxyproject.org/genomics)
@@ -203,11 +210,11 @@ These repositories provide best practise workflows for genomic and chemoinformat
 
 The chemoinformatics workflows can be used to conduct fragment screening using molecular docking.  *This has [already been done for the SARS-COV-2 main protease (MPro)](https://covid19.galaxyproject.org/cheminformatics/histories/)* by the [Diamond Light Source's XChem team](https://www.diamond.ac.uk/Instruments/Mx/Fragment-Screening.html), [InformaticsMatters](http://informaticsmatters.com/) and the [European Galaxy Team](https://galaxyproject.eu/).  The genomics workflows use entirely open source software and open access platforms to perform (1) [data pre-processing](https://covid19.galaxyproject.org/genomics/1-PreProcessing), (2) [genome assembly](https://covid19.galaxyproject.org/genomics/2-Assembly), (3) [estimation of MRCA timing](https://covid19.galaxyproject.org/genomics/3-MRCA), (4) [analysis of intrahost variation](https://covid19.galaxyproject.org/genomics/4-Variation), (5) [analysis of substitutions within the *S* gene](https://covid19.galaxyproject.org/genomics/5-S-analysis), and (6) [analysis of recombination and selection](https://covid19.galaxyproject.org/genomics/6-RecombinationSelection). 
 
-### 10. Nanopore Direct RNA Analysis Using MasterOfPores
+### 11. Nanopore Direct RNA Analysis Using MasterOfPores
 The [Epitranscriptomics and RNA Dynamics Lab (Novoa)](https://www.crg.eu/en/programmes-groups/novoa-lab) and the Bioinformatics Core Facility ([BioCore](https://biocore.crg.eu/wiki/Main_Page) at the [CRG](https://www.crg.eu/) have released a set of tools and resources to support the analysis of nanopore direct RNA sequencing data.
 - [Uniform analysis of coronavirus and SARS-COV-2 nanopore direct RNA sequencing datasets using MasterOfPores](https://biocorecrg.github.io/covid/)
 
-### 11. BioNumerics SARS-CoV-2 Plugin
+### 12. BioNumerics SARS-CoV-2 Plugin
 Applied Maths/bioMerieux have released a plugin for BioNumerics that facilitates the processing and analysis of SARS-CoV-2 genomic sequences, whether downloaded from a public data repository or generated locally. More info on the tool and a tutorial can be found [here](https://www.applied-maths.com/applications/sarscov2-genome-screening).
 
 ---
