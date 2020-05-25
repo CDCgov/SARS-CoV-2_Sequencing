@@ -150,8 +150,8 @@ The [ARTIC Network](https://artic.network) has released detailed instructions on
 
 - [Nextflow ARTIC nCoV Workflows - Connor Lab Cardiff/PHW](https://github.com/connor-lab/ncov2019-artic-nf)
 
-### 5. BugSeq
-[BugSeq](https://bugseq.com) has added support for detailed SARS-CoV-2 analysis from nanopore sequencing data. This analysis ([example](https://bugseq.com/demo/sars-cov-2)) will be conducted automatically by detection of SARS-CoV-2 in sequencing data and tailored for your experimental design (metagenomic and ARTIC v1,v2 and v3 amplicons supported). BugSeq is making analysis of SARS-CoV-2 samples available **free of charge** for any user publishing their data in a pre-print or the peer-reviewed literature. Additional information and documentation are available below:
+### 4. BugSeq
+[BugSeq](https://bugseq.com) has added support for automatic SARS-CoV-2 analysis (QC, consensus, variant calling and lineage detection) from nanopore sequencing data. This analysis ([example](https://bugseq.com/demo/sars-cov-2)) is triggered by detection of SARS-CoV-2 in data submissions and is automatically tailored for your experimental design (metagenomic and ARTIC v1,v2 and v3 amplicons supported). BugSeq is making analysis of SARS-CoV-2 samples available **free of charge** for any user publishing their data in a pre-print or the peer-reviewed literature. Additional information and documentation are available below:
 
 - [Example report](https://bugseq.com/demo/sars-cov-2)
 
