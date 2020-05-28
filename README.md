@@ -76,7 +76,7 @@ A number of different laboratories have implemented derivatives of the ARTIC amp
 - [Virgina DCLS has a detailed ARTIC-on-Illumina protocol, including worksheets, flowcharts and helpful hints.](./protocols/ILMN-VA_DCLS-ARTIC_Illumina)
 - Joel Sevinsky and the intrepid team at [StaPH-B](https://www.staphb.org) have adapted ARTICv3 for Illumina for public health laboratories that are already configured for PulseNet sequencing.
       - [SARS-CoV-2 Sequencing on Illumina MiSeq using ARTIC Protocol: Part 1 - Tiling PCR](https://www.protocols.io/view/sars-cov-2-sequencing-on-illumina-miseq-using-arti-bfefjjbn)
-      - [SARS-CoV-2 Sequencing on Illumina MiSeq using ARTIC Protocol: Part 2 - Illumina DNA Flex](https://www.protocols.io/view/sars-cov-2-sequencing-on-illumina-miseq-using-arti-bffyjjpw) 
+      - [SARS-CoV-2 Sequencing on Illumina MiSeq using ARTIC Protocol: Part 2 - Illumina DNA Flex](https://www.protocols.io/view/sars-cov-2-sequencing-on-illumina-miseq-using-arti-bffyjjpw)
 
 #### Modifications, Improvements and Derivatives of ARTIC
 - [Freed and Silander developed a modified ARTIC protocol with 1200bp inserts](https://www.protocols.io/view/ncov-2019-sequencing-protocol-rapid-barcoding-1200-bfwnjpde)([primers](https://docs.google.com/spreadsheets/d/1M5I_C56ZC8_2Ycgm9EFieVlVNqxsP7dXAnGoBZy3nDo/edit#gid=755704891))
@@ -131,7 +131,7 @@ This section describes the basic bioinformatic workflow that the Viral Discovery
 - CLCbio ([Jonathan Jacobs](mailto:jonathan.jacobs@qiagen.com)) has released workflows for the NCIRD/DVD protocols on [Illumina](./files/clc/CDC.Illumina.NEBNext.SARSCOV2.CLC.Workflow.v0.2.zip) and [Nanopore](./files/clc/CDC.Nanopore.Amplicon.SARSCOV2.Protocol.CLC.Worklow.v0.2.zip). Older versions available [here](./files/clc/).
 
 ### 2. CLCbio Genomics Workbench
-QIAGEN has released example workflows and tutorials for analyzing Illumina and Oxford Nanopore SARS-CoV-2 sequence data using CLC Genomics Workbench v20.0.3. Note - these workflows are "Research Use Only" (RUO), and may need to modified to fit upstream protocols.  Free temporary licenses for CLC GWB and IPA are available, as well as a series of webinars and tutorials are available to familiarize users with the workflows. [Jonathan Jacobs](mailto:jonathan.jacobs@qiagen.com) and [Leif Schauser](mailto:leif.schauser@qiagen.com) are available for user support and specific questions. 
+QIAGEN has released example workflows and tutorials for analyzing Illumina and Oxford Nanopore SARS-CoV-2 sequence data using CLC Genomics Workbench v20.0.3. Note - these workflows are "Research Use Only" (RUO), and may need to modified to fit upstream protocols.  Free temporary licenses for CLC GWB and IPA are available, as well as a series of webinars and tutorials are available to familiarize users with the workflows. [Jonathan Jacobs](mailto:jonathan.jacobs@qiagen.com) and [Leif Schauser](mailto:leif.schauser@qiagen.com) are available for user support and specific questions.
 
 - [Temporary licenses for CLC Genomics Workbench and Ingenuity Pathway Analysis](https://go.qiagen.com/QDI-COVID19)
 - [SARS-CoV-2 Analysis Tutorial with Nanopore Data](https://resources.qiagenbioinformatics.com/tutorials/Analysis_of_SARS-CoV-2.pdf) [(Figure)](https://user-images.githubusercontent.com/64888/77170622-ad637500-6a91-11ea-9b2a-f6f3cda4981e.png)
@@ -169,7 +169,7 @@ The [ARTIC Network](https://artic.network) has released detailed instructions on
 ### 6. Broad viral-ngs tools
 The Broad Institute's viral genomics analysis tools can assist with assembly, metagenomics, QC, and NCBI submission prep, for Illumina-generated data on viral genomes. It is available in the following forms:
 
-- The Terra cloud platform ([workspace](https://app.terra.bio/#workspaces/pathogen-genomic-surveillance/COVID-19) including example SARS-CoV-2 data from SRA, [blog post](https://support.terra.bio/hc/en-us/articles/360040613432), [getting started](https://support.terra.bio/hc/en-us/articles/360041068771)) 
+- The Terra cloud platform ([workspace](https://app.terra.bio/#workspaces/pathogen-genomic-surveillance/COVID-19) including example SARS-CoV-2 data from SRA, [blog post](https://support.terra.bio/hc/en-us/articles/360040613432), [getting started](https://support.terra.bio/hc/en-us/articles/360041068771))
 - The DNAnexus cloud platform ([workflows](https://platform.dnanexus.com/projects/F8PQ6380xf5bK0Qk0YPjB17P/data/build/quay.io/broadinstitute/viral-pipelines/2.0.11.0-rc23))
 - The Dockstore tool repository service - integrates with several cloud platforms, or download to run on-prem ([workflows](https://dockstore.org/organizations/BroadInstitute/collections/pgs))
 - Github ([workflows](https://github.com/broadinstitute/viral-pipelines/tree/master/pipes/WDL))
@@ -206,9 +206,9 @@ Example output:
 - [Cheoinformatics: Virtual screening of the SARS-CoV-2 main protease](https://covid19.galaxyproject.org/cheminformatics/)
 - [Genomics: Analysis of COVID-19 data using Galaxy, BioConda and public research infrastructure](https://covid19.galaxyproject.org/genomics)
 
-These repositories provide best practise workflows for genomic and chemoinformatic analyses for SARS-CoV-2 data. In addition to providing tools and workflows we provide free public computational infrastrcture for immediate use by anyone worldwide using a [consortium of Galaxy instances from US, EU, and Australia](https://galaxyproject.org/use/). 
+These repositories provide best practise workflows for genomic and chemoinformatic analyses for SARS-CoV-2 data. In addition to providing tools and workflows we provide free public computational infrastrcture for immediate use by anyone worldwide using a [consortium of Galaxy instances from US, EU, and Australia](https://galaxyproject.org/use/).
 
-The chemoinformatics workflows can be used to conduct fragment screening using molecular docking.  *This has [already been done for the SARS-COV-2 main protease (MPro)](https://covid19.galaxyproject.org/cheminformatics/histories/)* by the [Diamond Light Source's XChem team](https://www.diamond.ac.uk/Instruments/Mx/Fragment-Screening.html), [InformaticsMatters](http://informaticsmatters.com/) and the [European Galaxy Team](https://galaxyproject.eu/).  The genomics workflows use entirely open source software and open access platforms to perform (1) [data pre-processing](https://covid19.galaxyproject.org/genomics/1-PreProcessing), (2) [genome assembly](https://covid19.galaxyproject.org/genomics/2-Assembly), (3) [estimation of MRCA timing](https://covid19.galaxyproject.org/genomics/3-MRCA), (4) [analysis of intrahost variation](https://covid19.galaxyproject.org/genomics/4-Variation), (5) [analysis of substitutions within the *S* gene](https://covid19.galaxyproject.org/genomics/5-S-analysis), and (6) [analysis of recombination and selection](https://covid19.galaxyproject.org/genomics/6-RecombinationSelection). 
+The chemoinformatics workflows can be used to conduct fragment screening using molecular docking.  *This has [already been done for the SARS-COV-2 main protease (MPro)](https://covid19.galaxyproject.org/cheminformatics/histories/)* by the [Diamond Light Source's XChem team](https://www.diamond.ac.uk/Instruments/Mx/Fragment-Screening.html), [InformaticsMatters](http://informaticsmatters.com/) and the [European Galaxy Team](https://galaxyproject.eu/).  The genomics workflows use entirely open source software and open access platforms to perform (1) [data pre-processing](https://covid19.galaxyproject.org/genomics/1-PreProcessing), (2) [genome assembly](https://covid19.galaxyproject.org/genomics/2-Assembly), (3) [estimation of MRCA timing](https://covid19.galaxyproject.org/genomics/3-MRCA), (4) [analysis of intrahost variation](https://covid19.galaxyproject.org/genomics/4-Variation), (5) [analysis of substitutions within the *S* gene](https://covid19.galaxyproject.org/genomics/5-S-analysis), and (6) [analysis of recombination and selection](https://covid19.galaxyproject.org/genomics/6-RecombinationSelection).
 
 ### 11. Nanopore Direct RNA Analysis Using MasterOfPores
 The [Epitranscriptomics and RNA Dynamics Lab (Novoa)](https://www.crg.eu/en/programmes-groups/novoa-lab) and the Bioinformatics Core Facility ([BioCore](https://biocore.crg.eu/wiki/Main_Page) at the [CRG](https://www.crg.eu/) have released a set of tools and resources to support the analysis of nanopore direct RNA sequencing data.
@@ -217,13 +217,16 @@ The [Epitranscriptomics and RNA Dynamics Lab (Novoa)](https://www.crg.eu/en/prog
 ### 12. BioNumerics SARS-CoV-2 Plugin
 Applied Maths/bioMerieux have released a plugin for BioNumerics that facilitates the processing and analysis of SARS-CoV-2 genomic sequences, whether downloaded from a public data repository or generated locally. More info on the tool and a tutorial can be found [here](https://www.applied-maths.com/applications/sarscov2-genome-screening).
 
+### 13. StaPH-B ToolKit Monroe Workflow
+The [State Public Health Bioinformatics (StaPH-B)](http://www.staphb.org/) consortium has made their [Monroe workflow](https://staph-b.github.io/staphb_toolkit/workflow_docs/monroe/) accessible through the [StaPH-B ToolKit](https://staph-b.github.io/staphb_toolkit/). Monroe consists of three separate Nextflow pipelines for 1) ARTIC + Illumina paired-end read assembly 2) ARTIC + Oxford Nanopore Technlogies read assembly and 3) cluster analysis from assembled SC2 genomes. 
+
 ---
 
 # **Quality Management**<a id="quality" />
 This section will describe best practices for laboratory and bioinformatic quality assurance, including preflight checks for sequence and metadata submission to public repositories.
 
 ### 1. FDA ARGOS SARS-CoV-2 Reference Sequence Data and Materials
-The FDA, in collaboration with CDC, BEIR, UMaryland IGS, and others, have recently put together reference sequences, and materials for NGS sequencing and assay development.  These resources will be invaluable to many laboratories implementing NGS quality management programs. 
+The FDA, in collaboration with CDC, BEIR, UMaryland IGS, and others, have recently put together reference sequences, and materials for NGS sequencing and assay development.  These resources will be invaluable to many laboratories implementing NGS quality management programs.
 - [FDA ARGOS SARS-CoV-2 Resources](https://www.fda.gov/medical-devices/database-reference-grade-microbial-sequences-fda-argos/fda-argos-sars-cov-2-reference-grade-sequence-data)
 
 ### 2. Host Sequence Removal
