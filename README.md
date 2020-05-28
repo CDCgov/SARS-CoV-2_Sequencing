@@ -218,7 +218,10 @@ The [Epitranscriptomics and RNA Dynamics Lab (Novoa)](https://www.crg.eu/en/prog
 Applied Maths/bioMerieux have released a plugin for BioNumerics that facilitates the processing and analysis of SARS-CoV-2 genomic sequences, whether downloaded from a public data repository or generated locally. More info on the tool and a tutorial can be found [here](https://www.applied-maths.com/applications/sarscov2-genome-screening).
 
 ### 13. StaPH-B ToolKit Monroe Workflow
-The [State Public Health Bioinformatics (StaPH-B)](http://www.staphb.org/) consortium has made their [Monroe workflow](https://staph-b.github.io/staphb_toolkit/workflow_docs/monroe/) accessible through the [StaPH-B ToolKit](https://staph-b.github.io/staphb_toolkit/). Monroe consists of three separate Nextflow pipelines for 1) ARTIC + Illumina paired-end read assembly 2) ARTIC + Oxford Nanopore Technlogies read assembly and 3) cluster analysis from assembled SC2 genomes. 
+The [State Public Health Bioinformatics (StaPH-B)](http://www.staphb.org/) consortium has made their [Monroe workflow](https://staph-b.github.io/staphb_toolkit/workflow_docs/monroe/) accessible through the [StaPH-B ToolKit](https://staph-b.github.io/staphb_toolkit/). Monroe consists of three separate Nextflow pipelines for
+- ARTIC + Illumina paired-end read assembly
+- ARTIC + Oxford Nanopore Technlogies read assembly
+- Cluster analysis from assembled SC2 genomes
 
 ---
 
