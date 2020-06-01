@@ -217,6 +217,9 @@ The [Epitranscriptomics and RNA Dynamics Lab (Novoa)](https://www.crg.eu/en/prog
 ### 12. BioNumerics SARS-CoV-2 Plugin
 Applied Maths/bioMerieux have released a plugin for BioNumerics that facilitates the processing and analysis of SARS-CoV-2 genomic sequences, whether downloaded from a public data repository or generated locally. More info on the tool and a tutorial can be found [here](https://www.applied-maths.com/applications/sarscov2-genome-screening).
 
+### 13. fastv: identify SARS-CoV-2 from sequencing data in one minute
+Fastv is a little-weight independent tool for ultra-fast identification of SARS-CoV-2 and other microbes from sequencing data. It detects SARS-CoV-2 sequences from FASTQ data, generates JSON reports and visualizes the result in HTML reports. It supports both short reads (Illumina, BGI, etc.) and long reads (ONT, PacBio, etc.). More information can be found [here](https://github.com/OpenGene/fastv).
+
 ---
 
 # **Quality Management**<a id="quality" />
