@@ -81,6 +81,7 @@ A number of different laboratories have implemented derivatives of the ARTIC amp
 #### Modifications, Improvements and Derivatives of ARTIC
 - [Freed and Silander developed a modified ARTIC protocol with 1200bp inserts](https://www.protocols.io/view/ncov-2019-sequencing-protocol-rapid-barcoding-1200-bfwnjpde)([primers](https://docs.google.com/spreadsheets/d/1M5I_C56ZC8_2Ycgm9EFieVlVNqxsP7dXAnGoBZy3nDo/edit#gid=755704891))
 - Gohl and collagues at UMN describe an elegant tailed amplicon approach that enables ARTIC without the need for ligation or tagmentation steps ([biorXiv](https://www.biorxiv.org/content/10.1101/2020.05.11.088724v1))([protocols.io](https://www.protocols.io/view/sars-cov-2-tailed-amplicon-illumina-sequencing-bge5jtg6))
+- Sorensen, Karst and Knutsson from Alborg University have described a tailed long amplicon derivative of ARTIC ([protocols.io](https://www.protocols.io/view/aau-ncov-2019-tailed-long-amplicon-sequncing-bfc3jiyn))
 
 ## _**3. PACIFIC BIOSCIENCES**_
 PacBio maintains a [COVID-19 landing page](https://www.pacb.com/research-focus/microbiology/COVID-19-sequencing-tools-and-resources/) with updated resources on existing protocols and [SARS-CoV2-2 assay development recommendations](https://www.pacb.com/wp-content/uploads/Customer-Collaboration-SARS-CoV-2-Virus-Sample-Preparation-Suggestions-for-PacBio-SMRT-Sequencing.pdf).
@@ -417,4 +418,4 @@ published through the [CDC web site](http://www.cdc.gov).
 
 ---
 
-Updated: 20200512 [@dmaccannell](https://www.twitter.com/dmaccannell)
+Updated: 20200608 [@dmaccannell](https://www.twitter.com/dmaccannell)
