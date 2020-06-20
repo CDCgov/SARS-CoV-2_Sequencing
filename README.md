@@ -206,6 +206,7 @@ Example output:
 [Workflows](https://covid19.galaxyproject.org/) are available for the [Galaxy Platform](https://galaxyproject.org/)
 - [Cheoinformatics: Virtual screening of the SARS-CoV-2 main protease](https://covid19.galaxyproject.org/cheminformatics/)
 - [Genomics: Analysis of COVID-19 data using Galaxy, BioConda and public research infrastructure](https://covid19.galaxyproject.org/genomics)
+- [ARTIC: Amplicon analysis using Artic workflows](https://covid19.galaxyproject.org/artic)
 
 These repositories provide best practise workflows for genomic and chemoinformatic analyses for SARS-CoV-2 data. In addition to providing tools and workflows we provide free public computational infrastrcture for immediate use by anyone worldwide using a [consortium of Galaxy instances from US, EU, and Australia](https://galaxyproject.org/use/). 
 
