@@ -227,6 +227,13 @@ The [State Public Health Bioinformatics (StaPH-B)](http://www.staphb.org/) conso
 ### 14. fastv: identify SARS-CoV-2 from sequencing data in one minute
 Fastv is a little-weight independent tool for ultra-fast identification of SARS-CoV-2 and other microbes from sequencing data. It detects SARS-CoV-2 sequences from FASTQ data, generates JSON reports and visualizes the result in HTML reports. It supports both short reads (Illumina, BGI, etc.) and long reads (ONT, PacBio, etc.). More information can be found [here](https://github.com/OpenGene/fastv).
 
+### 15. EDGE COVID-19: A web platform for generating SARS-CoV-2 genomes
+
+[EDGE COVID-19](https://edge-covid19.edgebioinformatics.org/) is a standardized web-based workflow for automated reference-based genome assembly of SARS-CoV-2 samples. The workflow accommodates Illumina or Oxford Nanopore Technologies data, performs read mapping and provides static and interactive figures/graphs to explore quality and any discovered SNPs, Variants, Gaps, and indels. Given raw FASTQ file(s) from amplicon-based methods (ARTIC, CDC) or shotgun sequencing (including from enrichment protocols), EDGE COVID-19 automates the production of a SARS-CoV-2 genome that is ready for submission to GISAID or GenBank. We have automated the process to submit high quality genomes to GISAID (with required metadata) and we are working on a similar process for SRA and GenBank.
+
+Here is a [link](https://arxiv.org/abs/2006.08058) to the arXiv paper describing the workflow.
+
+Our other COVID-19 related efforts can be found [here](https://covid19.edgebioinformatics.org/#/).
 ---
 
 # **Quality Management**<a id="quality" />
