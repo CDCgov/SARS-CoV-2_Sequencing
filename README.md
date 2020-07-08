@@ -235,6 +235,18 @@ Fastv is a little-weight independent tool for ultra-fast identification of SARS-
 Here is a [link](https://arxiv.org/abs/2006.08058) to the arXiv paper describing the workflow.
 
 Our other COVID-19 related efforts can be found [here](https://covid19.edgebioinformatics.org/#/).
+
+### 16. MiCall: Pipeline for processing NGS data to genotype human RNA viruses like SARS-CoV-2, HIV and hepatitis C
+[MiCall] processes NGS read data from platforms like Illumina by either assembling them or mapping them to a set of
+reference sequences. Then, it reports consensus sequences, variant mixtures, and quality control reports. For HIV and
+hepatitis C, it also reports drug resistance interpretations of the variant mixtures.
+
+MiCall is open-source software and comes packaged to be run under Docker or Singularity, to make installation easy. It's
+also available to run on Illumina's [BaseSpace] web service, but the SARS-CoV-2 support is not yet available there.
+
+[MiCall]: https://github.com/cfe-lab/MiCall
+[BaseSpace]: https://basespace.illumina.com/apps/3247244?preferredVersion
+
 ---
 
 # **Quality Management**<a id="quality" />
