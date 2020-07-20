@@ -247,6 +247,27 @@ also available to run on Illumina's [BaseSpace] web service, but the SARS-CoV-2 
 [MiCall]: https://github.com/cfe-lab/MiCall
 [BaseSpace]: https://basespace.illumina.com/apps/3247244?preferredVersion
 
+### 17. [EzCOVID19]: A bioinformatics platform for rapid detection, identification, and characterization of the SARS-CoV-2 virus
+ChunLab/EzBiome has developed a cloud-based bioinformatics platform, [EzCOVID19], for rapid detection, identification, and characterization of the SARS-CoV-2 virus
+from raw metagenomic, metatranscriptomic, RNA-seq, and/or isolate (amplicon or enrichment) NGS data suspected of containing the SARS-CoV-2 virus. EzCOVID19 provides
+scientists with a consensus genome assembly along with statistics related to genome coverage, depth metrics, and coverage plots relative to the reference SARS-CoV-
+2 genome.
+
+Furthermore, to deliver additional insight into the nature of this virus as well as its origin, evolution, and relationship to concurrently circulated publicly
+available SARS-CoV-2 genomes, EzCOVID19 enables characterization and typing of the entire viral genome, when the user obtains adequate coverage of the genome. It
+provides Single Nucleotide Variant (SNV) information, including a graph and table with detected variants in the SARS-CoV-2 genome, identifies most similar genomes
+available in the reference databases (i.e., GISAID) based on alignment statistics and SNVs, including a maximum likelihood or parsimony based similarity tree
+decorated with SNV profiles. It also offers classification or typing of the queried genome using EzBioCloud’s SNP based classification scheme of SARS-CoV-2
+variants, including an evolutionary analysis of the detected SARS-CoV-2 type along with other types observed among publicly available SARS-CoV-2 genomes.
+
+The workflow automatically runs on unassembled sequenced data suspected of containing the SARS-CoV-2 virus. Please visit [EzCOVID19] to explore some pre-analyzed
+public datasets which are available for the users under the "Other Analyses" tab at the upper right corner.
+
+Here is a [GIF] that shows an overview of [EzCOVID19] analysis outputs. Please contact admin@ezbiome.com for any questions or queries.
+
+[EzCOVID19]:http://covid19.ezbiocloud.net/
+[GIF]:https://help.ezbiocloud.net/ezcovid19-the-sars-cov-2-tool-you-need-for-characterization/
+
 ---
 
 # **Quality Management**<a id="quality" />
