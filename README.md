@@ -452,4 +452,4 @@ published through the [CDC web site](http://www.cdc.gov).
 
 ---
 
-Updated: 20200608 [@dmaccannell](https://www.twitter.com/dmaccannell)
+Updated: 20200720 [@dmaccannell](https://www.twitter.com/dmaccannell)
