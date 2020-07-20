@@ -254,7 +254,7 @@ scientists with a consensus genome assembly along with statistics related to gen
 2 genome.
 
 Furthermore, to deliver additional insight into the nature of this virus as well as its origin, evolution, and relationship to concurrently circulated publicly
-available SARS-CoV-2 genomes, EzCOVID19 enables characterization and typing of the entire viral genome, when the user obtains adequate coverage of the genome. It
+available SARS-CoV-2 genomes, [EzCOVID19] enables characterization and typing of the entire viral genome, when the user obtains adequate coverage of the genome. It
 provides Single Nucleotide Variant (SNV) information, including a graph and table with detected variants in the SARS-CoV-2 genome, identifies most similar genomes
 available in the reference databases (i.e., GISAID) based on alignment statistics and SNVs, including a maximum likelihood or parsimony based similarity tree
 decorated with SNV profiles. It also offers classification or typing of the queried genome using EzBioCloud’s SNP based classification scheme of SARS-CoV-2
