@@ -313,6 +313,7 @@ The National Center for Biotechnology has established a custom landing page for 
 #### 1. NCBI Submission Portal
 Individual sequences can be submitted to NCBI using the following web form. Create an NCBI user account, and select "SARS-CoV-2 (through BankIt)".
 - [SARS-CoV-2 Submission Portal](https://submit.ncbi.nlm.nih.gov/sarscov2)
+- [SARS-CoV-2 NCBI Resource Page](https://www.ncbi.nlm.nih.gov/sars-cov-2)
 
 > NCBI has provided provisional guidance for SARS-CoV-2 sequence submissions to SRA and Genbank. [Detailed instructions are available here](./protocols/NCBI-Submission/NCBI-Sequence_submission_for_COVID-19.pdf). Any questions can be directed to NCBI staff [here](mailto:gb-admin@ncbi.nlm.nih.gov).
 
@@ -325,6 +326,9 @@ The FDA Center for Food Safety and Applied Nutrition ([CFSAN](https://www.fda.go
 - [NCBI submission protocol for microbial pathogen surveillance](https://www.protocols.io/view/ncbi-submission-protocol-for-microbial-pathogen-su-9aph2dn)
 - [Populating the NCBI pathogen metadata template](https://www.protocols.io/view/populating-the-ncbi-pathogen-metadata-template-bck3iuyn)
 - NCBI Data Curation - Pending release
+
+#### 4. NIAID METAGENOTE (SRA Submissions)
+Many users are already familiar with NIAID's wonderful [METAGENOTE](https://metagenote.niaid.nih.gov/) submission tool, which is frequently used to get microbial genomic and metagenomic datasets, and corresponding metadata organized and submitted to SRA. The NIAID Bioinformatics team has recently released a walkthrough on how to use the METAGENOTE platform for SARS-CoV-2 sequence read submissions. Detailed instructions [here](https://metagenote.niaid.nih.gov/guide.html#covid) with an instructional [video](https://www.youtube.com/watch?v=TLjcASgsm_8) as well.
 
 ### [GISAID EpiCoV](https://www.gisaid.org/)
 
