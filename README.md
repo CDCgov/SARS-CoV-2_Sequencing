@@ -373,6 +373,7 @@ In this simple proposed schema, GISAID ID or GENBANK ID and COLLECTION DATE are 
 
 ## Useful References
 - [Open-source analytics tools for studying the COVID-19 coronavirus outbreak](https://www.medrxiv.org/content/10.1101/2020.02.25.20027433v2)
+- [NU COVID-19 Resource Collection](http://bioinfolab.unl.edu/emlab/nucovid)
 - [Global Initiative on Open-source Genomics for SARS-CoV-2](https://giogs.genomics.cn/)
 
 ## COVID-19 Host Genomics
@@ -452,4 +453,4 @@ published through the [CDC web site](http://www.cdc.gov).
 
 ---
 
-Updated: 20200720 [@dmaccannell](https://www.twitter.com/dmaccannell)
+Updated: 20200914 [@dmaccannell](https://www.twitter.com/dmaccannell)
