@@ -43,6 +43,8 @@ This protocol was developed and released by the fine folks at [ARTIC Network](ht
 
 - Integrated bioinformatics (RAMPART) - documentation below under bioinformatics methods.
 
+*UPDATE*: Recent preprint by Tyson et al. and the ARTIC Network team describes a greatly streamlined workflow for ARTIC-Nanopore sequencing of SARS-CoV-2, including functional multiplexing library construction up to 96 samples. Protocol and details are [here](https://www.biorxiv.org/content/10.1101/2020.09.04.283077v1.full).
+
 ### c) Doherty Institute VIDRL Sequencing Protocols
 The Victorian Infectious Diseases Reference Laboratory ([VIDRL](https://www.vidrl.org.au/)) at the [Peter Doherty Institute for Infection and Immunity](https://www.doherty.edu.au/) released two protocols for the ONT MinION, which they successfully used to sequence early Australian SARS-CoV-2 samples.
 - [Native RNA Sequencing Protocol](./protocols/ONT-Native_RNA) [(ref)](https://www.biorxiv.org/content/10.1101/2020.03.05.976167v1.full.pdf)
