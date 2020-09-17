@@ -101,6 +101,7 @@ Files are mirrored [here](../protocols/).
 ## _**4. IONTORRENT**_
 A number of laboratories have reported success with the Ion AmpliSeq SARS-CoV-2 Research panel for the IonTorrent S5 platform. Amplicon strategies, such as ARTIC, should also work for the S5, and we'd welcome the addition of any working protocols and other resources to this section.
 - [Ion AmpliSeq SARS-CoV-2 Research Panel for GeneStudio S5](https://assets.thermofisher.com/TFS-Assets/LSG/manuals/MAN0019277_Ion_AmpliSeq_SARS-CoV-2_Research_Panel_GeneStudio_QR.pdf)
+- [Ion AmpliSeq SARS-CoV-2 Research Panel for the Genexus System](https://assets.thermofisher.com/TFS-Assets/LSG/manuals/MAN0019278_Ion_AmpliSeq_SARS-CoV-2_Research_Panel_Genexus_QR.pdf)
 
 ## _**5. TANDEM**_
 
@@ -459,4 +460,4 @@ published through the [CDC web site](http://www.cdc.gov).
 
 ---
 
-Updated: 20200914 [@dmaccannell](https://www.twitter.com/dmaccannell)
+Updated: 20200916 [@dmaccannell](https://www.twitter.com/dmaccannell)
