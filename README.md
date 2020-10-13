@@ -264,6 +264,9 @@ Here is an [example](https://help.ezbiocloud.net/ezcovid19-the-sars-cov-2-tool-y
 
 [EzCOVID19]:http://covid19.ezbiocloud.net/
 
+### 18 [Chan Zuckerberg BioHub/CZI IDSeq](https://idseq.net)
+The Chan Zuckerberg BioHub and Chan Zuckerberg Initiative have put together updates to the [IDSeq](https://idseq.net) platform, enabling users to analyze MSSPE or ARTICv3 amplicon SARS-CoV-2 sequence data, in addition to their existing tools for metagenomic analysis. They have also provided a number of workflows over on their Github [site](https://github.com/chanzuckerberg), including an automated pipeline for building SARS-CoV-2 consensus genomes [WDL link](https://github.com/chanzuckerberg/idseq-workflows/blob/main/consensus-genome/run.wdl).
+
 ---
 
 # **Quality Management**<a id="quality" />
@@ -460,4 +463,4 @@ published through the [CDC web site](http://www.cdc.gov).
 
 ---
 
-Updated: 20200916 [@dmaccannell](https://www.twitter.com/dmaccannell)
+Updated: 20201013 [@dmaccannell](https://www.twitter.com/dmaccannell)
