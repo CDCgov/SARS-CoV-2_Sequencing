@@ -26,11 +26,7 @@ This collection is maintained and curated by [Duncan MacCannell](https://www.twi
 ## _**1. OXFORD NANOPORE**_
 The following sequencing protocols, checklists and job-aids are primarily designed for the Oxford Nanopore [MinION](https://nanoporetech.com/products/minion), and have been kindly shared by research groups throughout the world (please see individual protocols for attribution and citing purposes). Even so, most of these protocols should scale to larger ONT instruments without significant modifications.
 
-### a) CDC NCIRD/DVD ONT Sequencing Protocol
-This protocol was developed, tuned and validated by the Viral Discovery laboratory at CDC/NCIRD, where it was used to generate the first 16 SARS-CoV-2 genome sequences from the United States. In practice, it has been used for situations with a relatively low or predictable volume of samples, and is often used in conjunction with Sanger-based tiling to resolve any potential sequencing or assembly issues.
-- [Singleplex and Multiplex Protocols for ONT/Illumina](./protocols/CDC-Comprehensive)
-
-### b) [ARTIC Network nCoV-2019 Sequencing Protocol](https://artic.network/ncov-2019)
+### a) [ARTIC Network nCoV-2019 Sequencing Protocol](https://artic.network/ncov-2019)
 This protocol was developed and released by the fine folks at [ARTIC Network](https://artic.network), and was subsequently refined based on comments from [Itokawa et al](https://www.biorxiv.org/content/10.1101/2020.03.10.985150v1.full.pdf), which identified potential issues and proposed an alternate L18 primer.
 
 - [Sequencing protocol](https://www.protocols.io/view/ncov-2019-sequencing-protocol-bbmuik6w) / [Single sample sequencing protocol](https://www.protocols.io/view/ncov-2019-sequencing-protocol-single-sample-bdbfi2jn)
@@ -45,7 +41,7 @@ This protocol was developed and released by the fine folks at [ARTIC Network](ht
 
 *UPDATE*: Recent preprint by Tyson et al. and the ARTIC Network team describes a greatly streamlined workflow for ARTIC-Nanopore sequencing of SARS-CoV-2, including functional multiplexing library construction up to 96 samples. Protocol and details are [here](https://www.biorxiv.org/content/10.1101/2020.09.04.283077v1.full).
 
-### c) Doherty Institute VIDRL Sequencing Protocols
+### b) Doherty Institute VIDRL Sequencing Protocols
 The Victorian Infectious Diseases Reference Laboratory ([VIDRL](https://www.vidrl.org.au/)) at the [Peter Doherty Institute for Infection and Immunity](https://www.doherty.edu.au/) released two protocols for the ONT MinION, which they successfully used to sequence early Australian SARS-CoV-2 samples.
 - [Native RNA Sequencing Protocol](./protocols/ONT-Native_RNA) [(ref)](https://www.biorxiv.org/content/10.1101/2020.03.05.976167v1.full.pdf)
 
@@ -109,12 +105,6 @@ A number of laboratories have reported success with the Ion AmpliSeq SARS-CoV-2 
 Staff and students from Thomas Friedrich and Dave O'Connor's laboratories at UWMadison have put together a tandem sequencing protocol and bioinformatic workflow that incorporates Illumina and ONT sequence. While this may be overkill for routine or high-throughput public health purposes, the necessary protocols, scripts and documentation are available here.
 - [Protocol](https://openresearch.labkey.com/wiki/ZEST/Ncov/page.view?name=SARS0CoV-2%20Deep%20Sequencing)
 - [Github resources](https://github.com/katarinabraun/SARS-CoV-2_sequencing)
-
-## _**6. SANGER**_
-### a) CDC NCIRD/DVD Sanger Tiling
-An elegant approach from a more civilized age. The Viral Discovery laboratory team in CDC/NCIRD/DVD has used conventional Sanger sequencing to refine and complement betacoronavirus sequencing on next generation platforms.
-- [Singleplex and Multiplex Protocols for Sanger/ONT/Illumina](./protocols/CDC-Comprehensive)
-- [Preprint describing CDC protocols](https://www.biorxiv.org/content/10.1101/2020.04.22.055897v1)
 
 ---
 
