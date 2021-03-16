@@ -271,8 +271,10 @@ SanitizeMe is a set of scripts and an X11 GUI for removing human host sequences 
 
 - **to do**: I'd love for people to help describe their actual QC processes.
 
----
+### 3. In silico SARS-Cov-2 benchmark dataset
+This [benmark dataset](https://github.com/globalmicrobialidentifier-WG3/datasets/blob/master/datasets/sarscov2-SNF-A.tsv) is generated from [Lemieux et al, 2020](https://science.sciencemag.org/content/371/6529/eabe3261/tab-e-letters). The tree should resolve to three clades and an outgroup X11.
 
+---
 
 # **Submitting to Public Sequence Repositories**<a id="submitting" />
 
