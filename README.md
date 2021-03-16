@@ -386,6 +386,12 @@ In this simple proposed schema, GISAID ID or GENBANK ID and COLLECTION DATE are 
 - [Nextstrain hCoV-19](https://www.nextstrain.org/ncov)
 - [UCSC SARS-CoV-2 browser](https://genome.ucsc.edu/cgi-bin/hgTracks?db=wuhCor1)
 - [CNCB 2019 Novel Coronavirus Resource (2019nCoVR)](https://bigd.big.ac.cn/ncov?lang=en)
+- [PANGO lineages](https://cov-lineages.org/)
+- [Plylodynamics of SARS-CoV-2-GISAID subsamples](https://sars-cov2.dev.east.paas.nga.mil/sars-cov-2/GISAID/2020-11-15?d=tree,entropy&p=full)
+- [US SPHERES Nextstrain builds](https://nextstrain.org/groups/spheres)
+
+## CDC COVID-19 Genomic Epidemiology Toolkit 
+- [CDC COVID-19 Genomic Epidemiology Toolkit](https://www.cdc.gov/amd/training/covid-19-gen-epi-toolkit.html)
 
 ## Diagnostic Resources
 - [SARS-CoV-2 PCR Primer List (Grubaugh Lab, Yale SPH)](https://docs.google.com/spreadsheets/d/1kWLdaqWZZYt383EMSf-osyXGdeedrRF6YeBuOBin6Ok/edit#gid=0)
