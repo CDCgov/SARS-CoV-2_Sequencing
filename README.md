@@ -392,8 +392,9 @@ In this simple proposed schema, GISAID ID or GENBANK ID and COLLECTION DATE are 
 - [Plylodynamics of SARS-CoV-2-GISAID subsamples](https://sars-cov2.dev.east.paas.nga.mil/sars-cov-2/GISAID/2020-11-15?d=tree,entropy&p=full)
 - [US SPHERES Nextstrain builds](https://nextstrain.org/groups/spheres)
 
-## CDC COVID-19 Genomic Epidemiology Toolkit 
+## CDC COVID-19 response efforts 
 - [CDC COVID-19 Genomic Epidemiology Toolkit](https://www.cdc.gov/amd/training/covid-19-gen-epi-toolkit.html)
+- [Variant Proportions in the U.S.](https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/variant-proportions.html)
 
 ## Diagnostic Resources
 - [SARS-CoV-2 PCR Primer List (Grubaugh Lab, Yale SPH)](https://docs.google.com/spreadsheets/d/1kWLdaqWZZYt383EMSf-osyXGdeedrRF6YeBuOBin6Ok/edit#gid=0)
