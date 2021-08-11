@@ -14,7 +14,7 @@ See also https://github.com/W-L/ProblematicSites_SARS-CoV2
 ### Inclusion criteria
 
 Before adding, submitters are expected to confirm the validity of mutations to ensure high confidence according to the following suggested criteria:  
-1. Coverage depth >= Xx
+1. Read coverage depth >= Xx
 1. Xxxxxx
 1. Xxxxxx
 
@@ -22,7 +22,7 @@ Before adding, submitters are expected to confirm the validity of mutations to e
 ### How to contribute mutations
 
 1. Fork repo  
-1. Add entries to 'mutations.tsv' 
+1. Add entries to 'mutations.tsv'
 1. Update VCF file with 'some-script.sh'
 1. Commit changes and submit a pull request
 
