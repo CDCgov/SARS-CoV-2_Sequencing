@@ -21,27 +21,33 @@ Before adding, submitters are expected to confirm the validity of mutations to e
 
 ### How to contribute mutations
 
-1. Fork repo  
-1. Add entries to 'mutations.tsv'
-1. Update VCF file with 'some-script.sh'
-1. Commit changes and submit a pull request
+1. Fork this repository ([Do you need a GitHub account?](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account))  
+1. Copy `./import/mut_template.tsv` and name your file with an unique identifier using format:
+    [YYYYMMDD].[YourName].[0-9]{3}.tsv -- (eg. 20210812.Weigand.123.tsv)  
+1. Enter mutation information according to the column descriptions below, entering 'NA' for any missing attributes except those marked as required. You may add multiple entries to this file.
+1. Save your new mutation file to `./import`.
+1. Commit your changes.
+1. Submit a pull request.
+1. Updated versions of `SCV2_mutations_latest.tsv` and `SCV2_mutations_latest.vcf` will be generated automatically when your pull request is approved.
 
 ### Table column definitions
 
 | Header         | Description                    |
 |----------------|--------------------------------|
-|Chrom		|Name of the reference sequence (Wuhan-1)|
-|Gene			|Annotated gene in the reference|
-|Pos 			|Base position in the reference|
-|Mutation	|Mutation change|
-|Description |Human-readable description of mutation|
+|Chrom *		|Name of the reference sequence (Wuhan-1)|
+|Gene	*		|Annotated gene in the reference|
+|Pos *			|Base position in the reference|
+|Mutation *	|Mutation change|
+|Description * |Human-readable description of mutation|
 |Example	|GenBank and/or SRA accession of example genome with confirmed mutation|
 |Library	|Primer set or library method information|
 |Platform	|Sequencing platform information|
 |Analysis	|Bioinformatic pipeline information (version)|
 |Lineage	|Affected PANGO lineages (Pangolin version)|
-|Submitter	|Name and affiliation of mutation submitter|
-|Date	|Date added to the table|
+|Submitter *	|Name and affiliation of mutation submitter|
+|Date *	|Date added to the table|
+
+(\* required)
 
 ### VCF column definitions (v4.? specification)
 
