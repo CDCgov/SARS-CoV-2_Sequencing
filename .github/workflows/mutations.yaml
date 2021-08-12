@@ -22,6 +22,7 @@ jobs:
         run: |
           now=$(date +%Y%m%d_%H%M%S)
           #if new mutations added, then
+          #check if format, required variables are correct
           #add mutations to existing latest.tsv
           #copy latest.tsv to ${GITHUB_WORKSPACE}/mutations/archive_tsv/$now.tsv
 
@@ -30,7 +31,7 @@ jobs:
         run: |
           echo
           #if new mutations, then
-          #convert latest.tsv to latest.vcf (add identifier to INFO that can be mapped to changelog)
+          #convert latest.tsv to latest.vcf with some script (add identifier to INFO that can be mapped to changelog)
           #copy latest.vcf to ${GITHUB_WORKSPACE}/mutations/archive_vcf/$now.vcf
 
       - name: cleanup
