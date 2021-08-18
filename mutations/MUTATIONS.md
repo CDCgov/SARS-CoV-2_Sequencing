@@ -31,7 +31,7 @@ Before adding, submitters are expected to confirm the validity of mutations to e
 
 <details>
  <summary>PacBio</summary>
- 
+
 1. Read coverage depth >= Xx
 1. Xxxxxx
 </details>

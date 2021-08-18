@@ -24,7 +24,7 @@ jobs:
           #if new mutations added, then
           #check if format, required variables are correct
           #add mutations to existing latest.tsv
-          #copy latest.tsv to ${GITHUB_WORKSPACE}/mutations/archive_tsv/$now.tsv
+          #copy latest.tsv to ${GITHUB_WORKSPACE}/mutations/previous_tsv/$now.tsv
 
 
       - name: make vcf
@@ -32,7 +32,7 @@ jobs:
           echo
           #if new mutations, then
           #convert latest.tsv to latest.vcf with some script (add identifier to INFO that can be mapped to changelog)
-          #copy latest.vcf to ${GITHUB_WORKSPACE}/mutations/archive_vcf/$now.vcf
+          #copy latest.vcf to ${GITHUB_WORKSPACE}/mutations/previous_vcf/$now.vcf
 
       - name: cleanup
         run: |
