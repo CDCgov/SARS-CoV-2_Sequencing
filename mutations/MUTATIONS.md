@@ -1,6 +1,6 @@
 ## Common disruptive mutations observed in SARS-CoV-2 genome sequences
 
-A list of mutations observed by public health or academic institutions engaged in sequencing SARS-CoV-2 clinical specimens. Listed mutations are submitted by the community and come with no guarantees or endorsements. Mutations relative to reference [NC_045512.2](https://www.ncbi.nlm.nih.gov/nuccore/NC_045512.2) are provided in both tabular and VCF formats.  
+A list of mutations observed by public health or academic institutions engaged in sequencing SARS-CoV-2 clinical specimens. Listed mutations are submitted by the community and come with no guarantees or endorsements. Mutations relative to reference [NC_045512.2](https://www.ncbi.nlm.nih.gov/nuccore/NC_045512.2) are provided in both tabular and VCF formats as described below.  
 
 See also: https://github.com/W-L/ProblematicSites_SARS-CoV2
 
@@ -23,7 +23,7 @@ Before adding, submitters are expected to confirm the validity of mutations to e
 </details>
 
 <details>
- <summary>Oxford Nanopore Minion (and ClearLabs)</summary>
+ <summary>Oxford Nanopore (and ClearLabs)</summary>
 
 1. Read coverage depth >= Xx
 1. Xxxxxx
@@ -41,7 +41,7 @@ Before adding, submitters are expected to confirm the validity of mutations to e
 
 1. Fork this repository ([Do you need a GitHub account?](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account))  
 1. Copy `./import/mut_template.tsv` and name your file with an unique identifier using format:
-    [YYYYMMDD].[YourName].[0-9]{3}.tsv (eg. `20210812.Weigand.123.tsv`) that can be used to link entries between the table and changelog.    
+    [YYYYMMDD].[YourName].[0-9]{3}.tsv that can be used to link entries between the table and changelog (eg. `./20210812.Weigand.123.tsv`).    
 1. Enter mutation information according to the column descriptions below, entering 'NA' for any missing attributes except those marked as required. You may add multiple entries to this file.
 1. Save your new mutation file to `./import`.
 1. Commit your changes.
@@ -52,10 +52,11 @@ Before adding, submitters are expected to confirm the validity of mutations to e
 
 | Header         | Description                    |
 |----------------|--------------------------------|
-|Chrom *		|Name of the reference sequence (Wuhan-1)|
+|Chrom *		|Name of the reference sequence [NC_045512.2](https://www.ncbi.nlm.nih.gov/nuccore/NC_045512.2)|
 |Gene	*		|Annotated gene in the reference|
 |Pos *			|Base position in the reference|
-|Mutation *	|Mutation change|
+|Reference *	|Reference sequence |
+|Mutation * |Mutation sequence change|
 |Description * |Human-readable description of mutation|
 |Example	|GenBank and/or SRA accession of example genome with confirmed mutation|
 |Library	|Primer set or library method information|
@@ -63,7 +64,7 @@ Before adding, submitters are expected to confirm the validity of mutations to e
 |Analysis	|Bioinformatic pipeline information (version)|
 |Lineage	|Affected PANGO lineages (Pangolin version)|
 |Submitter *	|Name and affiliation of mutation submitter|
-|Date *	|Date added to the table|
+|Date *	|Date added to table|
 
 (\* required)
 
