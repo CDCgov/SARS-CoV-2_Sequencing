@@ -9,7 +9,8 @@ See also: https://github.com/W-L/ProblematicSites_SARS-CoV2
 1. Facilitate sample review by public health laboratories.
 1. Aid review of assemblies flagged by QC processes due to presumed disruptive mutations.
 1. Compile problematic sites that may impact downstream bioinformatic analyses.
-1. Xxxxxx
+1. Inform further development of targeted assays for SARS-CoV-2.
+
 
 ### Inclusion criteria
 
@@ -40,10 +41,10 @@ Before adding, submitters are expected to confirm the validity of mutations to e
 ### How to contribute mutations
 
 1. Fork this repository ([Do you need a GitHub account?](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account))  
-1. Copy `./import/mut_template.csv` and name your file with an unique identifier using format:
-    [YYYYMMDD].[YourName].[0-9]{3}.tsv that can be used to link entries between the table and changelog (eg. `./20210812.Weigand.123.csv`).    
+1. Copy `./import/mut_template.csv` and rename your file with an unique identifier using format:
+    [YYYYMMDD].[YourName].[0-9]{3}.tsv that can be used to link entries between the table and changelog (eg. `20210812.Weigand.123.csv`).    
 1. Enter mutation information according to the column descriptions below, entering 'NA' for any missing attributes except those marked as required. You may add multiple entries to this file.
-1. Save your new mutation file to `./import`.
+1. Save your new mutation file to `./import/`.
 1. Commit your changes.
 1. Submit a pull request.
 1. Updated versions of `SCV2_mutations_latest.csv` and `SCV2_mutations_latest.vcf` will be generated automatically when your pull request is approved.
@@ -80,3 +81,9 @@ Before adding, submitters are expected to confirm the validity of mutations to e
 |QUAL            | NA? |
 |FILTER          | ???? |
 |INFO            | ???? |
+
+
+----
+#### Feedback
+
+Please submit suggested revisions to inclusion criteria, table updates, or other feedback by opening an issue.  
