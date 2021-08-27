@@ -1,6 +1,6 @@
 ## Common disruptive mutations observed in SARS-CoV-2 genome sequences
 
-A list of mutations observed by public health or academic institutions engaged in sequencing SARS-CoV-2 clinical specimens. Listed mutations are submitted by the community and come with no guarantees or endorsements. Mutations relative to reference [NC_045512.2](https://www.ncbi.nlm.nih.gov/nuccore/NC_045512.2) are provided in both tabular and VCF formats as described below.  
+A list of mutations observed by public health or academic institutions engaged in sequencing SARS-CoV-2 clinical specimens. Listed mutations are submitted by the community and come with no guarantees or endorsements. Mutations relative to reference [NC_045512.2](https://www.ncbi.nlm.nih.gov/nuccore/NC_045512.2) are provided in both table and VCF formats as described below.  
 
 See also: https://github.com/W-L/ProblematicSites_SARS-CoV2
 

@@ -1,0 +1,7 @@
+Chrom,Gene,Pos,Ref,Mut,Description,Example,Library,Platform,Analysis,Lineage,Submitter,Date
+NC_045512,ORF3a,26158,GTTA,-,Frameshift due to 4nt deletion shifts stop codon upstream by 50nt,MT509959,NA,NA,NA,NA,Michael Weigand - TOAST,20210801
+NC_045512,ORF3a,26152,G,T,Missense shifts stop codon upstream by 66nt,MW460877,NA,NA,NA,NA,Michael Weigand - TOAST,20210801
+NC_045512,ORF7a,27577,C,T,Missense shifts stop codon upstream by 180nt,MW822023,NA,NA,NA,NA,Michael Weigand - TOAST,20210801
+NC_045512,ORF7b,TT,-,Frameshift due to 2nt deletion shifts stop codon upstream by 34nt,MW653862,NA,NA,NA,NA,Michael Weigand - TOAST,20210801
+NC_045512,ORF7b,27870,G,T,Missense shifts stop codon upstream by 15nt,MW447625,NA,NA,NA,NA,Michael Weigand - TOAST,20210801
+NC_045512,ORF10,29642,C,T,Missense shifts stop codon upstream by 30nt,MT452576,NA,NA,NA,NA,Michael Weigand - TOAST,20210801
