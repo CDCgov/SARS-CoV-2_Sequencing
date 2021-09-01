@@ -14,28 +14,12 @@ See also: https://github.com/W-L/ProblematicSites_SARS-CoV2
 
 ### Inclusion criteria
 
-Before adding, submitters are expected to confirm the validity of mutations to ensure high confidence according to the following suggested criteria for each platform:  
+Before adding, submitters are expected to confirm the validity of mutations by inspecting read mapping results to ensure high confidence according to the suggested criteria:  
 
-<details>
- <summary>Illumina MiSeq/NextSeq</summary>
-
-1. Read coverage depth >= Xx  
-1. Xxxxxx
-</details>
-
-<details>
- <summary>Oxford Nanopore (and ClearLabs)</summary>
-
-1. Read coverage depth >= Xx
-1. Xxxxxx
-</details>
-
-<details>
- <summary>PacBio</summary>
-
-1. Read coverage depth >= Xx
-1. Xxxxxx
-</details>
+1. Minimum 90% genome-wide coverage breadth  
+1. Mimimum 30x coverage depth at mutation   
+1. Mimimum 80% read agreement for mutation
+1. *Optional:* confirm by Sanger sequencing
 
 
 ### How to contribute mutations
