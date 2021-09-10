@@ -8,13 +8,14 @@ See also: https://github.com/W-L/ProblematicSites_SARS-CoV2
 
 1. Facilitate sample review by public health laboratories.
 1. Aid review of assemblies flagged by QC processes due to presumed disruptive mutations.
+1. Improve submission of SARS-CoV-2 genome sequence assemblies to public data repositories.  
 1. Compile problematic sites that may impact downstream bioinformatic analyses.
 1. Inform further development of targeted assays for SARS-CoV-2.
 
 
 ### Inclusion criteria
 
-Before adding, submitters are expected to confirm the validity of mutations by inspecting read mapping results to ensure high confidence according to the suggested criteria:  
+Before adding, submitters are expected to confirm the validity of mutations by inspecting read mapping results (for example, upload your FASTA and BAM files to [IGV](https://igv.org/)) to ensure high confidence according to the suggested criteria:  
 
 1. Minimum 90% genome-wide coverage breadth  
 1. Mimimum 30x coverage depth at mutation   
@@ -53,7 +54,7 @@ Before adding, submitters are expected to confirm the validity of mutations by i
 
 (\* required)
 
-### VCF column definitions (v4.? specification)
+### VCF column definitions (v4.? specification) -- *coming soon*
 
 | Header         | Description                    |
 |----------------|--------------------------------|
