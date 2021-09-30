@@ -1,0 +1,2 @@
+Chrom,Gene,Pos,Ref,Mut,Description,Example,Library,Platform,Analysis,Lineage,Submitter,Date
+NC_045512,ORFXX,26158,G,A,Some human readable description,NA,NA,NA,NA,NA,YourName - YourAffiliation,YYYYMMDD
