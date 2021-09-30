@@ -25,7 +25,7 @@ Before adding, submitters are expected to confirm the validity of mutations by i
 
 ### How to contribute mutations
 
-1. Download `./import/mut_template.csv` and save with a filename containing an unique identifier using format: `[YYYYMMDD].[YourName].[0-9]{3}.csv` that can be used to link entries between the table and changelog (eg. `20210812.Weigand.123.csv`).    
+1. Download [./import/mut_template.csv](/import/mut_template.csv) and save with a filename containing an unique identifier using format: `[YYYYMMDD].[YourName].[0-9]{3}.csv` that can be used to link entries between the table and changelog (eg. `20210812.Weigand.123.csv`).    
 1. Enter mutation information according to the column descriptions below, entering 'NA' for any missing attributes except those marked as required. You may add multiple entries to this file.
 1. Create a new [GitHub issue](../issues/new) with title "Add: mutation table entry" ([Do you need a GitHub account?](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account)).
 1. Drag-and-drop the new csv file containing your entries.
