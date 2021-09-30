@@ -27,7 +27,7 @@ Before adding, submitters are expected to confirm the validity of mutations by i
 
 1. Download `./import/mut_template.csv` and save with a filename containing an unique identifier using format: `[YYYYMMDD].[YourName].[0-9]{3}.csv` that can be used to link entries between the table and changelog (eg. `20210812.Weigand.123.csv`).    
 1. Enter mutation information according to the column descriptions below, entering 'NA' for any missing attributes except those marked as required. You may add multiple entries to this file.
-1. Create a new [GitHub issue]([root]issues/new) with title "Add: mutation table entry" ([Do you need a GitHub account?](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account)).
+1. Create a new [GitHub issue](../issues/new) with title "Add: mutation table entry" ([Do you need a GitHub account?](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account)).
 1. Drag-and-drop the new csv file containing your entries.
 1. Submit your issue. The new entry will be reviewed and you will be notified when the mutation table has been updated.
 
@@ -68,6 +68,6 @@ Before adding, submitters are expected to confirm the validity of mutations by i
 ----
 #### Feedback
 
-Please submit suggested revisions to inclusion criteria, table updates, or other feedback by opening an new [GitHub issue]([root]issues/new) and including "mutation table" somewhere in the title.
+Please submit suggested revisions to inclusion criteria, table updates, or other feedback by opening an new [GitHub issue](../issues/new) and including "mutation table" somewhere in the title.
 
 This resource is maintained by CDC's Technical Outreach and Asstance for States Team (TOAST), :bread:.  
