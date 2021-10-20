@@ -212,11 +212,8 @@ The [Epitranscriptomics and RNA Dynamics Lab (Novoa)](https://www.crg.eu/en/prog
 ### 12. BioNumerics SARS-CoV-2 Plugin
 Applied Maths/bioMerieux have released a plugin for BioNumerics that facilitates the processing and analysis of SARS-CoV-2 genomic sequences, whether downloaded from a public data repository or generated locally. More info on the tool and a tutorial can be found [here](https://www.applied-maths.com/applications/sarscov2-genome-screening).
 
-### 13. StaPH-B ToolKit Monroe Workflow
-The [State Public Health Bioinformatics (StaPH-B)](http://www.staphb.org/) consortium has made their [Monroe workflow](https://staph-b.github.io/staphb_toolkit/workflow_docs/monroe/) accessible through the [StaPH-B ToolKit](https://staph-b.github.io/staphb_toolkit/). Monroe consists of three separate Nextflow pipelines for
-- ARTIC + Illumina paired-end read assembly
-- ARTIC + Oxford Nanopore Technlogies read assembly
-- Cluster analysis from assembled SC2 genomes
+### 13. StaPH-B ToolKit Cecret and Monroe Workflows
+The [State Public Health Bioinformatics (StaPH-B)](http://www.staphb.org/) consortium has made their [Monroe workflow](https://staph-b.github.io/staphb_toolkit/workflow_docs/monroe/) and [Cecret workflow](https://staphb.org/staphb_toolkit/workflow_docs/cecret/) accessible through the [StaPH-B ToolKit](https://staph-b.github.io/staphb_toolkit/). Both utilize Nextflow to produce consensus genome assemblies from amplicon libraries (e.g. ARTIC) sequenced on Illumina platforms and Monroe includes added functionality for Oxford Nanopore data as well as basic cluster analysis from assembled SARS-CoV-2 genomes. According to StaPH-B, Cecret is the generally preferred workflow.
 
 ### 14. fastv: identify SARS-CoV-2 from sequencing data in one minute
 Fastv is a little-weight independent tool for ultra-fast identification of SARS-CoV-2 and other microbes from sequencing data. It detects SARS-CoV-2 sequences from FASTQ data, generates JSON reports and visualizes the result in HTML reports. It supports both short reads (Illumina, BGI, etc.) and long reads (ONT, PacBio, etc.). More information can be found [here](https://github.com/OpenGene/fastv).
@@ -361,6 +358,15 @@ At a minimum, we suggest that samples be submitted with `collection date` `locat
 Note that for GISAID submissions, users must register for an account, and must successfully submit a single submission before being granted access to the bulk submission template and interface.
 
 A copy of the current bulk submission template is available [here](./templates/20200315_EpiCoV_BulkUpload_Template.xls).
+
+## Categorizing Sequence Data for Inclusion in CDC’s National SARS-CoV-2 Genomic Surveillance
+
+To expand data included in national surveillance estimates, CDC would like to include SARS-CoV-2 sequences generated at U.S. public health laboratories that meet the baseline surveillance criteria. Baseline surveillance is achieved by sequencing specimens that represent geographic, demographic (e.g., age), and clinical (e.g., disease severity or outcome) diversity across a jurisdiction through a random selection of SARS-CoV-2-positive, diagnostic specimens. Sequences that meet the criteria for baseline surveillance analyses include those:
+1. Sampled randomly for genomic surveillance
+2. Not identified in a targeted sampling effort (details linked below)
+3. Sampled across targeted sequencing efforts to be representative of the community
+
+For sequences to be correctly identified and ingested into the baseline surveillance analysis, they must be tagged appropriately during submission to public repositories. Detailed guidance and instructions are outlined in: [Technical-Assistance-for-Categorizing-Baseline-Surveillance.pdf](https://www.aphl.org/programs/preparedness/Crisis-Management/Documents/Technical-Assistance-for-Categorizing-Baseline-Surveillance.pdf)
 
 ---
 
