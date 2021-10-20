@@ -358,6 +358,15 @@ Note that for GISAID submissions, users must register for an account, and must s
 
 A copy of the current bulk submission template is available [here](./templates/20200315_EpiCoV_BulkUpload_Template.xls).
 
+## Categorizing Sequence Data for Inclusion in CDC’s National SARS-CoV-2 Genomic Surveillance
+
+To expand data included in national surveillance estimates, CDC would like to include SARS-CoV-2 sequences generated at U.S. public health laboratories that meet the baseline surveillance criteria. Baseline surveillance is achieved by sequencing specimens that represent geographic, demographic (e.g., age), and clinical (e.g., disease severity or outcome) diversity across a jurisdiction through a random selection of SARS-CoV-2-positive, diagnostic specimens. Sequences that meet the criteria for baseline surveillance analyses include those:
+1. Sampled randomly for genomic surveillance
+2. Not identified in a targeted sampling effort (details linked below)
+3. Sampled across targeted sequencing efforts to be representative of the community
+
+For sequences to be correctly identified and ingested into the baseline surveillance analysis, they must be tagged appropriately during submission to public repositories. Detailed guidance and instructions are outlined in: [Technical-Assistance-for-Categorizing-Baseline-Surveillance.pdf](https://www.aphl.org/programs/preparedness/Crisis-Management/Documents/Technical-Assistance-for-Categorizing-Baseline-Surveillance.pdf)
+
 ---
 
 
