@@ -2,7 +2,7 @@
 
 This document repository is meant to serve as the start of a crowd-sourced collection of information, documentation, protocols and other resources for public health laboratories intending to sequence SARS-CoV-2 coronavirus samples in the coming weeks. This is admittedly a limited first draft, but will continued to collate useful information as additional protocols, tools, and resources are added, and as best practices are identified. While some of the resources here are directed specifically to US state and local public health laboratories in support of diagnostic testing, sequencing and response, we hope that this is a useful resource for the global laboratory community, as we respond to this pandemic threat.
 
-This collection is maintained and curated by [Duncan MacCannell](https://www.twitter.com/dmaccannell) from the Office of Advanced Molecular Detection ([AMD](https://www.cdc.gov/amd)) at the Centers for Disease Control and Prevention ([CDC](https://www.cdc.gov)). Please feel free to suggest additions, edits, clarifications and corrections -- either by posting an issue, filing a pull request or by contacting me directly by email or twitter.  In the meantime, I'll continue to add and mirror useful resources here as they become available.
+This collection was originally established, maintained and curated by [Duncan MacCannell](https://www.twitter.com/dmaccannell) from the Office of Advanced Molecular Detection ([AMD](https://www.cdc.gov/amd)) at the Centers for Disease Control and Prevention ([CDC](https://www.cdc.gov)). It has incorporated collaborative edits from more than two dozen submitters throughout the world, and is actively maintained by [Michael Weigand](https://www.github.com/mikeyweigand) and the CDC TOAST Team. Please feel free to suggest additions, edits, clarifications and corrections -- either by posting an issue, filing a pull request or by contacting me directly by email or twitter.  In the meantime, I'll continue to add and mirror useful resources here as they become available.
 
 ## INDEX
 - [Sequencing Protocols](#sequencing)
@@ -477,4 +477,4 @@ published through the [CDC web site](http://www.cdc.gov).
 
 ---
 
-Updated: 20201013 [@dmaccannell](https://www.twitter.com/dmaccannell)
+Updated: 20211020 [@dmaccannell](https://www.twitter.com/dmaccannell)
