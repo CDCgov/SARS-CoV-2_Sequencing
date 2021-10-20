@@ -1,0 +1,5 @@
+Chrom,Gene,Pos,Ref,Mut,Description,Example,Library,Platform,Analysis,Lineage,Submitter,Date
+NC_045512,ORFa,26158,G,A,Some human readable description,NA,NA,NA,NA,NA,YourName - YourAffiliation,YYYYMMDD
+NC_045512,ORFa,cow,G,A,Some human readable description,NA,NA,NA,NA,NA,Roy Kent - AFC Richmond,20210905
+NC_045512,ORF1a,7243,G,A,Some human readable description,NA,NA,NA,NA,NA,Josef Martinez - ATLUTD,20210905
+NC_045512,ORF1a,70243,G,A,Some human readable description,NA,NA,NA,NA,NA,George Bello - ATLUTD,20210905

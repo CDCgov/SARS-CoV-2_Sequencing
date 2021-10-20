@@ -273,10 +273,14 @@ The FDA, in collaboration with CDC, BEIR, UMaryland IGS, and others, have recent
 
 - **to do**: I'd love for people to help describe their actual QC processes.
 
-### 3. SARS-Cov-2 benchmark datasets
+### 3. SARS-Cov-2 Benchmark Datasets
 
-- Metagenomic [dataset](https://github.com/globalmicrobialidentifier-WG3/datasets/blob/master/datasets/sarscov2-SNF-A.tsv) from [Lemieux et al, 2020](https://science.sciencemag.org/content/371/6529/eabe3261/tab-e-letters). Phylogenetic reconstruction should produce a tree resolving three clades, which correspond to three introductions, and an outgroup.
-- Collection of [datasets](https://github.com/CDCgov/datasets-sars-cov-2) organized by CDC's Technical Outreach and Assistance to States Team (TOAST). Includes sample replication with different sequencing preparation or instruments, representatives from VOC/VOI and non-VOC/VOI lineages, and failed QC runs.  
+- [Metagenomic dataset](https://github.com/globalmicrobialidentifier-WG3/datasets/blob/master/datasets/sarscov2-SNF-A.tsv) from [Lemieux et al, 2020](https://science.sciencemag.org/content/371/6529/eabe3261/tab-e-letters). Phylogenetic reconstruction should produce a tree resolving three clades, which correspond to three introductions, and an outgroup.
+- A [collection of datasets](https://github.com/CDCgov/datasets-sars-cov-2) organized by CDC's Technical Outreach and Assistance for States Team (TOAST), :bread:. Includes sample replication with different sequencing preparation or instruments, representatives from VOC/VOI and non-VOC/VOI lineages, and failed QC runs.
+
+### 4. Common Mutations Observed in SARS-CoV-2 Genome Assemblies  
+
+- A [detailed list of mutations](/mutations) observed by public health or academic institutions engaged in sequencing SARS-CoV-2 clinical specimens. Submitters from the community are expected to confirm the validity of mutations by inspecting read mapping results. This resource is maintained by CDC's Technical Outreach and Assistance for States Team (TOAST), :bread:.
 
 ---
 
