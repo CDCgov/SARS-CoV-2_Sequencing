@@ -416,7 +416,9 @@ In this simple proposed schema, GISAID ID or GENBANK ID and COLLECTION DATE are 
 - [EDGE Bioinformatics: In-Silico Evaluation of Diagnostic Assays (LANL)](https://covid19.edgebioinformatics.org/#/assayValidation)
 
 ## Additional Protocol Resources
-- [Coronavirus Methods Development Group @ protocols.io](https://www.protocols.io/groups/coronavirus-method-development-community)
+- [Coronavirus Methods Development Group @ protocols.io](https://www.protocols.io/groups/coronavirus-method-development-community)  
+- [Technical Outreach and Assistance for States Team (TOAST) 'menu' @ protocols.io](https://www.protocols.io/workspaces/toastpublic)  
+
 
 ---
 # **Notices and Disclaimers**<a id="notices" />
