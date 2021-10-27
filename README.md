@@ -29,11 +29,11 @@ The following sequencing protocols, checklists and job-aids are primarily design
 ### a) [ARTIC Network nCoV-2019 Sequencing Protocol](https://artic.network/ncov-2019)
 This protocol was developed and released by the fine folks at [ARTIC Network](https://artic.network), and was subsequently refined based on comments from [Itokawa et al](https://www.biorxiv.org/content/10.1101/2020.03.10.985150v1.full.pdf), which identified potential issues and proposed an alternate L18 primer.
 
-- [Sequencing protocol](https://www.protocols.io/view/ncov-2019-sequencing-protocol-bbmuik6w) / [Single sample sequencing protocol](https://www.protocols.io/view/ncov-2019-sequencing-protocol-single-sample-bdbfi2jn)
+- [Sequencing protocol](https://www.protocols.io/view/ncov-2019-sequencing-protocol-v3-locost-bh42j8ye) / [Single sample sequencing protocol](https://www.protocols.io/view/ncov-2019-sequencing-protocol-single-sample-bdbfi2jn)
 
 - [Stepwise simplified protocol from ONT*](./protocols/ONT-COVID-19_Tiling)
 
-- Primer schemes: [V1](https://github.com/artic-network/artic-ncov2019/tree/master/primer_schemes/nCoV-2019/V1) / [V2](https://github.com/artic-network/artic-ncov2019/tree/master/primer_schemes/nCoV-2019/V2) [(ref)](https://www.biorxiv.org/content/10.1101/2020.03.10.985150v1.full.pdf) / [V3](https://github.com/artic-network/artic-ncov2019/tree/master/primer_schemes/nCoV-2019/V3)
+- Primer schemes: [V1](https://github.com/artic-network/artic-ncov2019/tree/master/primer_schemes/nCoV-2019/V1) / [V2](https://github.com/artic-network/artic-ncov2019/tree/master/primer_schemes/nCoV-2019/V2) [(ref)](https://www.biorxiv.org/content/10.1101/2020.03.10.985150v1.full.pdf) / [V3](https://github.com/artic-network/artic-ncov2019/tree/master/primer_schemes/nCoV-2019/V3) / [V4](https://github.com/artic-network/artic-ncov2019/tree/master/primer_schemes/nCoV-2019/V4)
 
 - [ARTIC on Illumina - Complete Walk-through - Grubaugh/Andersen/Loman labs](https://docs.google.com/document/d/1PilT4w5jHO-ROsE8TL5WBGa0wSCdTHAsNl1LIOYiTgk/mobilebasic)
 
@@ -54,7 +54,7 @@ Illumina's Research and Development group has recently developed and validated a
 
 ### b) SARS-CoV-2 Enrichment Sequencing by Spiked Primer MSSPE (NIAID/UCSF/CZBioHub)
 The NIAID laboratory team in Cambodia, in collaboration with UCSF, CZBioHub and IPC, has released a metagenomic sequencing with spiked primer enrichment (MSSPE) protocol for SARS-CoV-2. The protocol is available on [protocols.io](https://protocols.io).
-- [MSSPE Protocol](https://www.protocols.io/view/sars-cov-2-enrichment-sequencing-by-spiked-primer-bc36iyre)
+- [MSSPE Protocol](https://www.protocols.io/view/sars-cov-2-enrichment-sequencing-by-spiked-primer-beshjeb6)
 
 ### c) Illumina Shotgun Metagenomics Sequencing Protocol
 Illumina's technical note on sequencing coronavirus samples using a comprehensive metagenomic sequencing approach was one of the earlier protocols released for SARS-CoV-2, and remains an effective option for shotgun sequencing.
@@ -78,7 +78,7 @@ A number of different laboratories have implemented derivatives of the ARTIC amp
 
 #### Modifications, Improvements and Derivatives of ARTIC
 - [Freed and Silander developed a modified ARTIC protocol with 1200bp inserts](https://www.protocols.io/view/ncov-2019-sequencing-protocol-rapid-barcoding-1200-bfwnjpde)([primers](https://docs.google.com/spreadsheets/d/1M5I_C56ZC8_2Ycgm9EFieVlVNqxsP7dXAnGoBZy3nDo/edit#gid=755704891))
-- Gohl and collagues at UMN describe an elegant tailed amplicon approach that enables ARTIC without the need for ligation or tagmentation steps ([biorXiv](https://www.biorxiv.org/content/10.1101/2020.05.11.088724v1))([protocols.io](https://www.protocols.io/view/sars-cov-2-tailed-amplicon-illumina-sequencing-bge5jtg6))
+- Gohl and collagues at UMN describe an elegant tailed amplicon approach that enables ARTIC without the need for ligation or tagmentation steps ([BMC Genomics](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-020-07283-6))([protocols.io](https://www.protocols.io/view/sars-cov-2-tailed-amplicon-illumina-sequencing-bipikdke))
 - Sorensen, Karst and Knutsson from Alborg University have described a tailed long amplicon derivative of ARTIC ([protocols.io](https://www.protocols.io/view/aau-ncov-2019-tailed-long-amplicon-sequncing-bfc3jiyn))
 
 ## _**3. PACIFIC BIOSCIENCES**_
@@ -120,7 +120,7 @@ A few different sites have resources that are foundational to most bioinformatic
 
 ### 1. CDC NCIRD/DVD Bioinformatics SOPs
 This section describes the basic bioinformatic workflow that the Viral Discovery laboratory in NCIRD, and other teams at CDC use for quality assessment, assembly and comparison of coronavirus sequences. IRMA, the Iterative Refinement Meta-Assembler developed by CDC's Influenza Division for routine influenza surveillance, has recently been updated to support both ebolavirus and coronavirus assembly tasks. While IRMA isn't used for all SARS-CoV-2 assemblies at CDC, it is a powerful tool for complex or problematic samples and datasets.
-- [Preprint describing](https://www.biorxiv.org/content/10.1101/2020.04.22.055897v1)
+- [Emerging Infectious Diseases](https://wwwnc.cdc.gov/eid/article/26/10/20-1800_article)
 - [IRMA: Iterative Refinement Meta-Assembler](https://wonder.cdc.gov/amd/flu/irma) is available here.
 - CLCbio ([Jonathan Jacobs](mailto:jonathan.jacobs@qiagen.com)) has released workflows for the NCIRD/DVD protocols on [Illumina](./files/clc/CDC.Illumina.NEBNext.SARSCOV2.CLC.Workflow.v0.2.zip) and [Nanopore](./files/clc/CDC.Nanopore.Amplicon.SARSCOV2.Protocol.CLC.Worklow.v0.2.zip). Older versions available [here](./files/clc/).
 
@@ -191,8 +191,9 @@ Example output:
 - [Detection of SARS-CoV-2 Coronavirus using CosmosID](https://www.cosmosid.com/blog-in/2020/3/13/metagenomic-detection-of-sars-cov-2-coronavirus-using-cosmosid)
 
 ### 9. ARTIC on Illumina Bioinformatic Workflow
-[@ErinYoung](https://github.com/erinyoung) and Kelly Oakeson at the Utah Department of Health have outlined their bioinformatics approach for SARS-CoV-2 sequences using ARTIC primers, sequenced on Illumina.
+[@ErinYoung](https://github.com/erinyoung) and Kelly Oakeson at the Utah Department of Health have outlined their bioinformatics approach for SARS-CoV-2 sequences using ARTIC primers, sequenced on Illumina. Now available as the Cecret workflow.
 - [Bioinformatic protocol](./protocols/BFX-UT_ARTIC_Illumina)
+- [Cecret workflow](https://github.com/UPHL-BioNGS/Cecret)
 - [iVar GitHub (Andersen Lab @ Scripps)](https://github.com/andersen-lab/ivar) and [documentation](https://andersen-lab.github.io/ivar/html/)
 
 ### 10. Galaxy
@@ -324,8 +325,8 @@ NCBI has indicated that they plan to develop a specific rapid submission process
 #### 3. FDA/CFSAN NCBI Submission and Data Curation Protocols
 The FDA Center for Food Safety and Applied Nutrition ([CFSAN](https://www.fda.gov/about-fda/fda-organization/center-food-safety-and-applied-nutrition-cfsan)) has released a number of protocols as part of their [GenomeTrakr Network](https://www.fda.gov/food/whole-genome-sequencing-wgs-program/genometrakr-network) that may be useful for NCBI sequence submission and metadata curation. While they are written specifically for laboratories that are conducting routine sequencing of foodborne bacterial pathogens, these protocols provide an overview of sequence submission to the NCBI pathogen portal, metadata and preflight data checks.
 
-- [NCBI submission protocol for microbial pathogen surveillance](https://www.protocols.io/view/ncbi-submission-protocol-for-microbial-pathogen-su-9aph2dn)
-- [Populating the NCBI pathogen metadata template](https://www.protocols.io/view/populating-the-ncbi-pathogen-metadata-template-bck3iuyn)
+- [NCBI submission protocol for microbial pathogen surveillance](https://www.protocols.io/view/ncbi-submission-protocol-for-microbial-pathogen-su-bgrajv2e)
+- [Populating the NCBI pathogen metadata template](https://www.protocols.io/view/guidance-for-populating-genometrakr-metadata-templ-bxcipiue)
 - NCBI Data Curation - Pending release
 
 #### 4. NIAID METAGENOTE (SRA Submissions)
