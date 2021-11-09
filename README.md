@@ -367,7 +367,7 @@ To expand data included in national surveillance estimates, CDC would like to in
 2. Not identified in a targeted sampling effort (details linked below)
 3. Sampled across targeted sequencing efforts to be representative of the community
 
-For sequences to be correctly identified and ingested into the baseline surveillance analysis, they must be tagged appropriately during submission to public repositories. Detailed guidance and instructions are outlined in: [Technical-Assistance-for-Categorizing-Baseline-Surveillance.pdf](https://www.aphl.org/programs/preparedness/Crisis-Management/Documents/Technical-Assistance-for-Categorizing-Baseline-Surveillance.pdf)
+For sequences to be correctly identified and ingested into the baseline surveillance analysis, they must be tagged appropriately during submission to public repositories. Detailed guidance and instructions are outlined in: [Technical-Assistance-for-Categorizing-Baseline-Surveillance.pdf](https://www.aphl.org/programs/preparedness/Crisis-Management/Documents/Technical-Assistance-for-Categorizing-Baseline-Surveillance-Update-Oct2021.pdf)
 
 ---
 
