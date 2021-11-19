@@ -260,6 +260,9 @@ The Chan Zuckerberg BioHub and Chan Zuckerberg Initiative have put together upda
 # **Quality Management**<a id="quality" />
 This section will describe best practices for laboratory and bioinformatic quality assurance, including preflight checks for sequence and metadata submission to public repositories.
 
+### 0. Considerations for Clinical Laboratory Improvement Amendments (CLIA) Testing  
+CDC's [Enterics Disease Laboratory Branch](https://www.cdc.gov/ncezid/dfwed/edlb/index.html) and [Respiratory Viruses Branch](https://www.cdc.gov/ncird/dvd.html) have developed [SC2CLIA Cecret](https://github.com/cdcgov/SC2CLIA), a CLIA compliance ready SARS-CoV-2 bioinformatics workflow. It adds CDC-specific QA/QC metrics, CLIA-ready reports, database storage stubs, and consensus sequence uploads for NCBI to the [Cecret workflow](https://staphb.org/staphb_toolkit/workflow_docs/cecret/).
+
 ### 1. FDA ARGOS SARS-CoV-2 Reference Sequence Data and Materials
 The FDA, in collaboration with CDC, BEIR, UMaryland IGS, and others, have recently put together reference sequences, and materials for NGS sequencing and assay development.  These resources will be invaluable to many laboratories implementing NGS quality management programs.
 - [FDA ARGOS SARS-CoV-2 Resources](https://www.fda.gov/medical-devices/database-reference-grade-microbial-sequences-fda-argos/fda-argos-sars-cov-2-reference-grade-sequence-data)
