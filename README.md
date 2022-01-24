@@ -145,11 +145,15 @@ The [ARTIC Network](https://artic.network) has released detailed instructions on
 - [Nextflow ARTIC nCoV Workflows - Connor Lab Cardiff/PHW](https://github.com/connor-lab/ncov2019-artic-nf)
 
 ### 4. BugSeq
-[BugSeq](https://bugseq.com) has added support for automatic SARS-CoV-2 analysis (QC, consensus, variant calling and lineage detection) from nanopore sequencing data. This analysis ([example](https://bugseq.com/demo/sars-cov-2)) is triggered by detection of SARS-CoV-2 in data submissions and is automatically tailored for your experimental design (metagenomic and ARTIC v1,v2 and v3 amplicons supported). BugSeq is making analysis of SARS-CoV-2 samples available **free of charge** for any user publishing their data in a pre-print or the peer-reviewed literature. Additional information and documentation are available below:
+[BugSeq](https://bugseq.com) has support for automatic SARS-CoV-2 analysis (quality control, consensus sequence generation, variant calling and lineage typing) from nanopore sequencing data. This analysis is triggered by detection of SARS-CoV-2 in data submissions and is automatically tailored for experimental design (metagenomic and all amplicon designs [ARTIC, Midnight, NEB VSS and more]  are currently supported). Analysis is as simple as uploading FASTQ files to the BugSeq secure and private platform. Additional information and documentation are available below:
 
-- [Example report](https://bugseq.com/demo/sars-cov-2)
+- [Example report from metagenomic sequencing](https://bugseq.com/demo/metagenomic)
 
-- [Additional documentation and bioinformatics details](https://docs.bugseq.com/tailored-experiment-analyses/covid-19-sars-cov-2)
+- [BugSeq Quick Start](https://docs.bugseq.com/)
+
+- [Analysis Input Requirements](https://docs.bugseq.com/input/)
+
+- [User Publications](https://bugseq.com/publications)
 
 ### 5. One Codex
 [One Codex](https://www.onecodex.com) has added support to its analysis platform for analyzing SARS-CoV-2 samples. This analysis ([example](https://app.onecodex.com/report/public/2b15c38901224e5f)) will be automatically run on any samples with SARS-CoV-2 reads. One Codex is making analysis of SARS-CoV-2 samples available **free of charge** for all users sharing their results and data publicly. Additional information and documentation are available below:
