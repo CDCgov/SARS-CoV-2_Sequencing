@@ -259,6 +259,13 @@ Here is an [example](https://help.ezbiocloud.net/ezcovid19-the-sars-cov-2-tool-y
 ### 18. [Chan Zuckerberg BioHub/CZI IDSeq](https://idseq.net)
 The Chan Zuckerberg BioHub and Chan Zuckerberg Initiative have put together updates to the [IDSeq](https://idseq.net) platform, enabling users to analyze MSSPE or ARTICv3 amplicon SARS-CoV-2 sequence data, in addition to their existing tools for metagenomic analysis. They have also provided a number of workflows over on their Github [site](https://github.com/chanzuckerberg), including an automated pipeline for building SARS-CoV-2 consensus genomes [WDL link](https://github.com/chanzuckerberg/idseq-workflows/blob/main/consensus-genome/run.wdl).
 
+### 19. [nf-core/viralrecon](https://github.com/nf-core/viralrecon)
+[nf-core](https://nf-co.re/) is a community effort to collect a curated set of analysis pipelines built using Nextflow. nf-core/viralrecon is a bioinformatics analysis pipeline used to perform assembly and intra-host/low-frequency variant calling for viral samples. The pipeline supports both Illumina and Nanopore sequencing data. For Illumina short-reads the pipeline is able to analyse metagenomics data typically obtained from shotgun sequencing (e.g. directly from clinical samples) and enrichment-based library preparation methods (e.g. amplicon-based: ARTIC SARS-CoV-2 enrichment protocol; or probe-capture-based). For Nanopore data the pipeline only supports amplicon-based analysis obtained from primer sets created and maintained by the ARTIC Network.
+  - [Pipeline information and installation](https://nf-co.re/viralrecon)
+  - [Usage](https://nf-co.re/viralrecon/2.6.0/usage)
+  - [Output](https://nf-co.re/viralrecon/2.6.0/output)
+  - [GitHub](https://github.com/nf-core/viralrecon)
+
 ---
 
 # **Quality Management**<a id="quality" />
